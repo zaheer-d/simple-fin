@@ -1,0 +1,5290 @@
+[
+    {
+        "ticker": "VUN",
+        "exchange": "JSE",
+        "price": "R 2.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 2:50PM GMT+2"
+    },
+    {
+        "ticker": "GAM",
+        "exchange": "JSE",
+        "price": "R 4.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Jan 12, 11:21AM GMT+2"
+    },
+    {
+        "ticker": "MZR",
+        "exchange": "JSE",
+        "price": "R 2.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 4:13PM GMT+2"
+    },
+    {
+        "ticker": "BUC",
+        "exchange": "JSE",
+        "price": "R 0.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 10, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "JSC",
+        "exchange": "JSE",
+        "price": "R 0.84",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "KDV",
+        "exchange": "JSE",
+        "price": "R 1.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 9, 1:35PM GMT+2"
+    },
+    {
+        "ticker": "BAU",
+        "exchange": "JSE",
+        "price": "R 0.52",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:25PM GMT+2"
+    },
+    {
+        "ticker": "DMC",
+        "exchange": "JSE",
+        "price": "R 0.40",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Nov 11, 4:22PM GMT+2"
+    },
+    {
+        "ticker": "ISA",
+        "exchange": "JSE",
+        "price": "R 1.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:06AM GMT+2"
+    },
+    {
+        "ticker": "CGN",
+        "exchange": "JSE",
+        "price": "R 1.32",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "CRG",
+        "exchange": "JSE",
+        "price": "R 8.91",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 10, 3:14PM GMT+2"
+    },
+    {
+        "ticker": "RNG",
+        "exchange": "JSE",
+        "price": "R 2.35",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "SNU",
+        "exchange": "JSE",
+        "price": "R 0.26",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:40PM GMT+2"
+    },
+    {
+        "ticker": "ELI",
+        "exchange": "JSE",
+        "price": "R 0.25",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "ESR",
+        "exchange": "JSE",
+        "price": "R 0.37",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:36PM GMT+2"
+    },
+    {
+        "ticker": "ECS",
+        "exchange": "JSE",
+        "price": "R 0.12",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:03PM GMT+2"
+    },
+    {
+        "ticker": "LAB",
+        "exchange": "JSE",
+        "price": "R 0.46",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 11:17AM GMT+2"
+    },
+    {
+        "ticker": "SVB",
+        "exchange": "JSE",
+        "price": "R 3.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 9:01AM GMT+2"
+    },
+    {
+        "ticker": "IDQ",
+        "exchange": "JSE",
+        "price": "R 9.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 10, 1:56PM GMT+2"
+    },
+    {
+        "ticker": "WNH",
+        "exchange": "JSE",
+        "price": "R 0.85",
+        "change": "-3.00",
+        "change_percent": "-3.41",
+        "last_trade_time": "Feb 17, 9:26AM GMT+2"
+    },
+    {
+        "ticker": "PSV",
+        "exchange": "JSE",
+        "price": "R 0.40",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 9:26AM GMT+2"
+    },
+    {
+        "ticker": "EXG",
+        "exchange": "JSE",
+        "price": "R 0.29",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:34AM GMT+2"
+    },
+    {
+        "ticker": "GDN",
+        "exchange": "JSE",
+        "price": "R 0.00",
+        "change": "",
+        "change_percent": "",
+        "last_trade_time": ""
+    },
+    {
+        "ticker": "ACE",
+        "exchange": "JSE",
+        "price": "R 0.85",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:35PM GMT+2"
+    },
+    {
+        "ticker": "MFI",
+        "exchange": "JSE",
+        "price": "R 12.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 10, 2:40PM GMT+2"
+    },
+    {
+        "ticker": "CMO",
+        "exchange": "JSE",
+        "price": "R 0.32",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 10:55AM GMT+2"
+    },
+    {
+        "ticker": "FCR",
+        "exchange": "JSE",
+        "price": "R 0.04",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:13AM GMT+2"
+    },
+    {
+        "ticker": "GBI",
+        "exchange": "JSE",
+        "price": "R 0.75",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 11:51AM GMT+2"
+    },
+    {
+        "ticker": "ILE",
+        "exchange": "JSE",
+        "price": "R 0.13",
+        "change": "-1.00",
+        "change_percent": "-7.14",
+        "last_trade_time": "Feb 17, 9:03AM GMT+2"
+    },
+    {
+        "ticker": "SOH",
+        "exchange": "JSE",
+        "price": "R 0.48",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 1:42PM GMT+2"
+    },
+    {
+        "ticker": "NUT",
+        "exchange": "JSE",
+        "price": "R 0.01",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 10:03AM GMT+2"
+    },
+    {
+        "ticker": "GLI",
+        "exchange": "JSE",
+        "price": "R 0.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 9:01AM GMT+2"
+    },
+    {
+        "ticker": "DTA",
+        "exchange": "JSE",
+        "price": "R 1.29",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 13, 4:04PM GMT+2"
+    },
+    {
+        "ticker": "PMV",
+        "exchange": "JSE",
+        "price": "R 0.55",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 1:14PM GMT+2"
+    },
+    {
+        "ticker": "VMK",
+        "exchange": "JSE",
+        "price": "R 0.55",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:35PM GMT+2"
+    },
+    {
+        "ticker": "HWA",
+        "exchange": "JSE",
+        "price": "R 0.27",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 12:23PM GMT+2"
+    },
+    {
+        "ticker": "CAC",
+        "exchange": "JSE",
+        "price": "R 1.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Dec 20, 10:42AM GMT+2"
+    },
+    {
+        "ticker": "MED",
+        "exchange": "JSE",
+        "price": "R 0.11",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Dec 2, 3:04PM GMT+2"
+    },
+    {
+        "ticker": "RDI",
+        "exchange": "JSE",
+        "price": "R 0.85",
+        "change": "+5.00",
+        "change_percent": "6.25",
+        "last_trade_time": "Feb 17, 9:02AM GMT+2"
+    },
+    {
+        "ticker": "CRD",
+        "exchange": "JSE",
+        "price": "R 0.19",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:15PM GMT+2"
+    },
+    {
+        "ticker": "AHL",
+        "exchange": "JSE",
+        "price": "R 0.36",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 7, 2:51PM GMT+2"
+    },
+    {
+        "ticker": "NCS",
+        "exchange": "JSE",
+        "price": "R 0.45",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 3:51PM GMT+2"
+    },
+    {
+        "ticker": "BDM",
+        "exchange": "JSE",
+        "price": "R 0.19",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 11:35AM GMT+2"
+    },
+    {
+        "ticker": "VIS",
+        "exchange": "JSE",
+        "price": "R 0.12",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 9:51AM GMT+2"
+    },
+    {
+        "ticker": "TLM",
+        "exchange": "JSE",
+        "price": "R 0.70",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 7, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "ANA",
+        "exchange": "JSE",
+        "price": "R 0.60",
+        "change": "+10.00",
+        "change_percent": "20.00",
+        "last_trade_time": "Feb 17, 9:01AM GMT+2"
+    },
+    {
+        "ticker": "MNY",
+        "exchange": "JSE",
+        "price": "R 0.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 9:01AM GMT+2"
+    },
+    {
+        "ticker": "SPA",
+        "exchange": "JSE",
+        "price": "R 2.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 3, 3:08PM GMT+2"
+    },
+    {
+        "ticker": "WEA",
+        "exchange": "JSE",
+        "price": "R 0.08",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:15PM GMT+2"
+    },
+    {
+        "ticker": "ADW",
+        "exchange": "JSE",
+        "price": "R 0.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:09PM GMT+2"
+    },
+    {
+        "ticker": "STA",
+        "exchange": "JSE",
+        "price": "R 0.02",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Nov 24, 9:00AM GMT+2"
+    },
+    {
+        "ticker": "TAW",
+        "exchange": "JSE",
+        "price": "R 1.28",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:46PM GMT+2"
+    },
+    {
+        "ticker": "BWN",
+        "exchange": "JSE",
+        "price": "R 7.31",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "DSBP",
+        "exchange": "JSE",
+        "price": "R 98.95",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:10PM GMT+2"
+    },
+    {
+        "ticker": "ECSP6",
+        "exchange": "JSE",
+        "price": "R 100.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Jan 26, 2:31PM GMT+2"
+    },
+    {
+        "ticker": "EPP",
+        "exchange": "JSE",
+        "price": "R 18.90",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "FSRP",
+        "exchange": "JSE",
+        "price": "R 86.50",
+        "change": "+50.00",
+        "change_percent": "0.58",
+        "last_trade_time": "Feb 17, 9:33AM GMT+2"
+    },
+    {
+        "ticker": "ILRP2",
+        "exchange": "JSE",
+        "price": "R 1007.33",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 4:43PM GMT+2"
+    },
+    {
+        "ticker": "INLP",
+        "exchange": "JSE",
+        "price": "R 83.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:44PM GMT+2"
+    },
+    {
+        "ticker": "INPP",
+        "exchange": "JSE",
+        "price": "R 95.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 6, 2:25PM GMT+2"
+    },
+    {
+        "ticker": "INPPR",
+        "exchange": "JSE",
+        "price": "R 86.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 2, 3:42PM GMT+2"
+    },
+    {
+        "ticker": "HLM",
+        "exchange": "JSE",
+        "price": "R 7.19",
+        "change": "+6.00",
+        "change_percent": "0.84",
+        "last_trade_time": "Feb 17, 9:30AM GMT+2"
+    },
+    {
+        "ticker": "COM",
+        "exchange": "JSE",
+        "price": "R 5.64",
+        "change": "-21.00",
+        "change_percent": "-3.59",
+        "last_trade_time": "Feb 17, 9:03AM GMT+2"
+    },
+    {
+        "ticker": "SFN",
+        "exchange": "JSE",
+        "price": "R 74.90",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "CGR",
+        "exchange": "JSE",
+        "price": "R 17.65",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:39PM GMT+2"
+    },
+    {
+        "ticker": "SYG",
+        "exchange": "JSE",
+        "price": "R 16.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "ADI",
+        "exchange": "JSE",
+        "price": "R 14.10",
+        "change": "-7.00",
+        "change_percent": "-0.49",
+        "last_trade_time": "Feb 17, 9:38AM GMT+2"
+    },
+    {
+        "ticker": "MFL",
+        "exchange": "JSE",
+        "price": "R 5.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "HWN",
+        "exchange": "JSE",
+        "price": "R 31.90",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:04PM GMT+2"
+    },
+    {
+        "ticker": "MNK",
+        "exchange": "JSE",
+        "price": "R 16.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:53PM GMT+2"
+    },
+    {
+        "ticker": "AEE",
+        "exchange": "JSE",
+        "price": "R 4.40",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 9:04AM GMT+2"
+    },
+    {
+        "ticker": "FGL",
+        "exchange": "JSE",
+        "price": "R 2.56",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "MDP",
+        "exchange": "JSE",
+        "price": "R 18.10",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 4:17PM GMT+2"
+    },
+    {
+        "ticker": "ADR",
+        "exchange": "JSE",
+        "price": "R 17.30",
+        "change": "-5.00",
+        "change_percent": "-0.29",
+        "last_trade_time": "Feb 17, 9:37AM GMT+2"
+    },
+    {
+        "ticker": "GPL",
+        "exchange": "JSE",
+        "price": "R 3.55",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:55PM GMT+2"
+    },
+    {
+        "ticker": "PCT",
+        "exchange": "JSE",
+        "price": "R 0.98",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "LDO",
+        "exchange": "JSE",
+        "price": "R 6.80",
+        "change": "",
+        "change_percent": "",
+        "last_trade_time": "Jan 23, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "PHM",
+        "exchange": "JSE",
+        "price": "R 21.34",
+        "change": "+34.00",
+        "change_percent": "1.62",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "SSS",
+        "exchange": "JSE",
+        "price": "R 11.40",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "GPA",
+        "exchange": "JSE",
+        "price": "R 9.86",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Jan 31, 2:38PM GMT+2"
+    },
+    {
+        "ticker": "WIL",
+        "exchange": "JSE",
+        "price": "R 7.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 9, 1:56PM GMT+2"
+    },
+    {
+        "ticker": "CMH",
+        "exchange": "JSE",
+        "price": "R 21.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "ARH",
+        "exchange": "JSE",
+        "price": "R 6.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "WEZ",
+        "exchange": "JSE",
+        "price": "R 0.90",
+        "change": "+1.00",
+        "change_percent": "1.12",
+        "last_trade_time": "Feb 17, 9:03AM GMT+2"
+    },
+    {
+        "ticker": "BEL",
+        "exchange": "JSE",
+        "price": "R 14.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:20PM GMT+2"
+    },
+    {
+        "ticker": "SBV",
+        "exchange": "JSE",
+        "price": "R 26.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:46PM GMT+2"
+    },
+    {
+        "ticker": "CUL",
+        "exchange": "JSE",
+        "price": "R 1.53",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 3:55PM GMT+2"
+    },
+    {
+        "ticker": "SAR",
+        "exchange": "JSE",
+        "price": "R 7.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:27AM GMT+2"
+    },
+    {
+        "ticker": "ARA",
+        "exchange": "JSE",
+        "price": "R 10.17",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "ACG",
+        "exchange": "JSE",
+        "price": "R 7.47",
+        "change": "+32.00",
+        "change_percent": "4.48",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "DCT",
+        "exchange": "JSE",
+        "price": "R 0.00",
+        "change": "",
+        "change_percent": "",
+        "last_trade_time": ""
+    },
+    {
+        "ticker": "RACP",
+        "exchange": "JSE",
+        "price": "R 25.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "UPL",
+        "exchange": "JSE",
+        "price": "R 16.95",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 3:39PM GMT+2"
+    },
+    {
+        "ticker": "CTA",
+        "exchange": "JSE",
+        "price": "R 0.98",
+        "change": "+1.00",
+        "change_percent": "1.03",
+        "last_trade_time": "Feb 17, 9:36AM GMT+2"
+    },
+    {
+        "ticker": "SCP",
+        "exchange": "JSE",
+        "price": "R 1.27",
+        "change": "-2.00",
+        "change_percent": "-1.55",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "CZA",
+        "exchange": "JSE",
+        "price": "R 0.54",
+        "change": "+2.00",
+        "change_percent": "3.85",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SVN",
+        "exchange": "JSE",
+        "price": "R 30.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 10, 4:48PM GMT+2"
+    },
+    {
+        "ticker": "OAS",
+        "exchange": "JSE",
+        "price": "R 0.00",
+        "change": "",
+        "change_percent": "",
+        "last_trade_time": ""
+    },
+    {
+        "ticker": "MMG",
+        "exchange": "JSE",
+        "price": "R 10.25",
+        "change": "-35.00",
+        "change_percent": "-3.30",
+        "last_trade_time": "Feb 17, 9:38AM GMT+2"
+    },
+    {
+        "ticker": "YRK",
+        "exchange": "JSE",
+        "price": "R 3.35",
+        "change": "-3.00",
+        "change_percent": "-0.89",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "GPB",
+        "exchange": "JSE",
+        "price": "R 7.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 11:34AM GMT+2"
+    },
+    {
+        "ticker": "ING",
+        "exchange": "JSE",
+        "price": "R 0.95",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:27AM GMT+2"
+    },
+    {
+        "ticker": "RSG",
+        "exchange": "JSE",
+        "price": "R 0.80",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 13, 9:14AM GMT+2"
+    },
+    {
+        "ticker": "TPC",
+        "exchange": "JSE",
+        "price": "R 29.99",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:28PM GMT+2"
+    },
+    {
+        "ticker": "CKS",
+        "exchange": "JSE",
+        "price": "R 64.00",
+        "change": "+50.00",
+        "change_percent": "0.79",
+        "last_trade_time": "Feb 17, 9:00AM GMT+2"
+    },
+    {
+        "ticker": "APK",
+        "exchange": "JSE",
+        "price": "R 7.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 3:02PM GMT+2"
+    },
+    {
+        "ticker": "IHL",
+        "exchange": "JSE",
+        "price": "R 18.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Jan 31, 12:15PM GMT+2"
+    },
+    {
+        "ticker": "ENX",
+        "exchange": "JSE",
+        "price": "R 19.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:24AM GMT+2"
+    },
+    {
+        "ticker": "REN",
+        "exchange": "JSE",
+        "price": "R 12.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 9:00AM GMT+2"
+    },
+    {
+        "ticker": "TOR",
+        "exchange": "JSE",
+        "price": "R 1.70",
+        "change": "+5.00",
+        "change_percent": "3.03",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "RLF",
+        "exchange": "JSE",
+        "price": "R 5.20",
+        "change": "-7.00",
+        "change_percent": "-1.33",
+        "last_trade_time": "Feb 17, 9:03AM GMT+2"
+    },
+    {
+        "ticker": "SCL",
+        "exchange": "JSE",
+        "price": "R 0.27",
+        "change": "-1.00",
+        "change_percent": "-3.57",
+        "last_trade_time": "Feb 17, 9:19AM GMT+2"
+    },
+    {
+        "ticker": "CND",
+        "exchange": "JSE",
+        "price": "R 2.60",
+        "change": "+13.00",
+        "change_percent": "5.26",
+        "last_trade_time": "Feb 17, 9:36AM GMT+2"
+    },
+    {
+        "ticker": "SIPBEE",
+        "exchange": "JSE",
+        "price": "R 42.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 10:38AM GMT+2"
+    },
+    {
+        "ticker": "OLG",
+        "exchange": "JSE",
+        "price": "R 3.20",
+        "change": "-15.00",
+        "change_percent": "-4.48",
+        "last_trade_time": "Feb 17, 9:03AM GMT+2"
+    },
+    {
+        "ticker": "PET",
+        "exchange": "JSE",
+        "price": "R 1.46",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:54PM GMT+2"
+    },
+    {
+        "ticker": "SSK",
+        "exchange": "JSE",
+        "price": "R 4.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:33PM GMT+2"
+    },
+    {
+        "ticker": "DNB",
+        "exchange": "JSE",
+        "price": "R 1.75",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:26PM GMT+2"
+    },
+    {
+        "ticker": "QFH",
+        "exchange": "JSE",
+        "price": "R 3.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:31PM GMT+2"
+    },
+    {
+        "ticker": "HUG",
+        "exchange": "JSE",
+        "price": "R 8.70",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:19PM GMT+2"
+    },
+    {
+        "ticker": "NVE",
+        "exchange": "JSE",
+        "price": "R 2.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:45PM GMT+2"
+    },
+    {
+        "ticker": "JBL",
+        "exchange": "JSE",
+        "price": "R 0.74",
+        "change": "+4.00",
+        "change_percent": "5.71",
+        "last_trade_time": "Feb 17, 9:07AM GMT+2"
+    },
+    {
+        "ticker": "TAS",
+        "exchange": "JSE",
+        "price": "R 1.81",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "BCF",
+        "exchange": "JSE",
+        "price": "R 7.95",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:18AM GMT+2"
+    },
+    {
+        "ticker": "ANS",
+        "exchange": "JSE",
+        "price": "R 1.42",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:39PM GMT+2"
+    },
+    {
+        "ticker": "NWL",
+        "exchange": "JSE",
+        "price": "R 32.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "NRL",
+        "exchange": "JSE",
+        "price": "R 6.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:22PM GMT+2"
+    },
+    {
+        "ticker": "ELR",
+        "exchange": "JSE",
+        "price": "R 22.99",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:33PM GMT+2"
+    },
+    {
+        "ticker": "SOV",
+        "exchange": "JSE",
+        "price": "R 8.25",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:16PM GMT+2"
+    },
+    {
+        "ticker": "AME",
+        "exchange": "JSE",
+        "price": "R 70.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 13, 9:00AM GMT+2"
+    },
+    {
+        "ticker": "TMT",
+        "exchange": "JSE",
+        "price": "R 2.79",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 12:50PM GMT+2"
+    },
+    {
+        "ticker": "HUL",
+        "exchange": "JSE",
+        "price": "R 11.80",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 7, 1:45PM GMT+2"
+    },
+    {
+        "ticker": "CSG",
+        "exchange": "JSE",
+        "price": "R 1.35",
+        "change": "+1.00",
+        "change_percent": "0.75",
+        "last_trade_time": "Feb 17, 9:35AM GMT+2"
+    },
+    {
+        "ticker": "TSX",
+        "exchange": "JSE",
+        "price": "R 5.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:16PM GMT+2"
+    },
+    {
+        "ticker": "MMP",
+        "exchange": "JSE",
+        "price": "R 15.52",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:30AM GMT+2"
+    },
+    {
+        "ticker": "IWE",
+        "exchange": "JSE",
+        "price": "R 1.23",
+        "change": "+2.00",
+        "change_percent": "1.65",
+        "last_trade_time": "Feb 17, 9:00AM GMT+2"
+    },
+    {
+        "ticker": "SEP",
+        "exchange": "JSE",
+        "price": "R 3.15",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:54PM GMT+2"
+    },
+    {
+        "ticker": "SNV",
+        "exchange": "JSE",
+        "price": "R 3.38",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:36PM GMT+2"
+    },
+    {
+        "ticker": "WKF",
+        "exchange": "JSE",
+        "price": "R 2.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 9:13AM GMT+2"
+    },
+    {
+        "ticker": "WSL",
+        "exchange": "JSE",
+        "price": "R 2.46",
+        "change": "+1.00",
+        "change_percent": "0.41",
+        "last_trade_time": "Feb 17, 9:36AM GMT+2"
+    },
+    {
+        "ticker": "TPF",
+        "exchange": "JSE",
+        "price": "R 8.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 3:41PM GMT+2"
+    },
+    {
+        "ticker": "VLE",
+        "exchange": "JSE",
+        "price": "R 3.25",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 12:24PM GMT+2"
+    },
+    {
+        "ticker": "PPE",
+        "exchange": "JSE",
+        "price": "R 0.55",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 3:22PM GMT+2"
+    },
+    {
+        "ticker": "GAI",
+        "exchange": "JSE",
+        "price": "R 8.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:35PM GMT+2"
+    },
+    {
+        "ticker": "KEH",
+        "exchange": "JSE",
+        "price": "R 1.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:03AM GMT+2"
+    },
+    {
+        "ticker": "EFG",
+        "exchange": "JSE",
+        "price": "R 5.01",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:57PM GMT+2"
+    },
+    {
+        "ticker": "DAW",
+        "exchange": "JSE",
+        "price": "R 2.25",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "ART",
+        "exchange": "JSE",
+        "price": "R 4.85",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:43PM GMT+2"
+    },
+    {
+        "ticker": "KBO",
+        "exchange": "JSE",
+        "price": "R 1.19",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 11:16AM GMT+2"
+    },
+    {
+        "ticker": "ATL",
+        "exchange": "JSE",
+        "price": "R 0.78",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:36PM GMT+2"
+    },
+    {
+        "ticker": "MST",
+        "exchange": "JSE",
+        "price": "R 4.70",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 10:33AM GMT+2"
+    },
+    {
+        "ticker": "EPS",
+        "exchange": "JSE",
+        "price": "R 4.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:48PM GMT+2"
+    },
+    {
+        "ticker": "ALH",
+        "exchange": "JSE",
+        "price": "R 2.10",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "BSR",
+        "exchange": "JSE",
+        "price": "R 2.10",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:45PM GMT+2"
+    },
+    {
+        "ticker": "ORE",
+        "exchange": "JSE",
+        "price": "R 0.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:11AM GMT+2"
+    },
+    {
+        "ticker": "AVL",
+        "exchange": "JSE",
+        "price": "R 1.40",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:39PM GMT+2"
+    },
+    {
+        "ticker": "ISB",
+        "exchange": "JSE",
+        "price": "R 1.03",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 10:52AM GMT+2"
+    },
+    {
+        "ticker": "LNF",
+        "exchange": "JSE",
+        "price": "R 9.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Dec 15, 11:52AM GMT+2"
+    },
+    {
+        "ticker": "BSS",
+        "exchange": "JSE",
+        "price": "R 0.38",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:46PM GMT+2"
+    },
+    {
+        "ticker": "PPR",
+        "exchange": "JSE",
+        "price": "R 5.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:36PM GMT+2"
+    },
+    {
+        "ticker": "RTN",
+        "exchange": "JSE",
+        "price": "R 12.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 3, 12:46PM GMT+2"
+    },
+    {
+        "ticker": "ANH",
+        "exchange": "JSE",
+        "price": "R 1401.22",
+        "change": "+146.00",
+        "change_percent": "0.10",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "BTI",
+        "exchange": "JSE",
+        "price": "R 805.00",
+        "change": "+184.00",
+        "change_percent": "0.23",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "BIL",
+        "exchange": "JSE",
+        "price": "R 227.18",
+        "change": "-187.00",
+        "change_percent": "-0.82",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "NPN",
+        "exchange": "JSE",
+        "price": "R 2162.99",
+        "change": "-346.00",
+        "change_percent": "-0.16",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "GLN",
+        "exchange": "JSE",
+        "price": "R 52.52",
+        "change": "+7.00",
+        "change_percent": "0.13",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "CFR",
+        "exchange": "JSE",
+        "price": "R 98.85",
+        "change": "-12.00",
+        "change_percent": "-0.12",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "ABSP",
+        "exchange": "JSE",
+        "price": "R 800.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "AGL",
+        "exchange": "JSE",
+        "price": "R 219.38",
+        "change": "-51.00",
+        "change_percent": "-0.23",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SNH",
+        "exchange": "JSE",
+        "price": "R 67.30",
+        "change": "-43.00",
+        "change_percent": "-0.63",
+        "last_trade_time": "Feb 17, 9:41AM GMT+2"
+    },
+    {
+        "ticker": "FSR",
+        "exchange": "JSE",
+        "price": "R 52.08",
+        "change": "-40.00",
+        "change_percent": "-0.76",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SOL",
+        "exchange": "JSE",
+        "price": "R 375.55",
+        "change": "-55.00",
+        "change_percent": "-0.15",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SBK",
+        "exchange": "JSE",
+        "price": "R 146.50",
+        "change": "-182.00",
+        "change_percent": "-1.23",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "VOD",
+        "exchange": "JSE",
+        "price": "R 149.55",
+        "change": "-165.00",
+        "change_percent": "-1.09",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "MTN",
+        "exchange": "JSE",
+        "price": "R 119.39",
+        "change": "-11.00",
+        "change_percent": "-0.09",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SOLBE1",
+        "exchange": "JSE",
+        "price": "R 310.10",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:34PM GMT+2"
+    },
+    {
+        "ticker": "REM",
+        "exchange": "JSE",
+        "price": "R 229.93",
+        "change": "-128.00",
+        "change_percent": "-0.55",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "OML",
+        "exchange": "JSE",
+        "price": "R 35.08",
+        "change": "-27.00",
+        "change_percent": "-0.76",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "SBPP",
+        "exchange": "JSE",
+        "price": "R 86.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "S32",
+        "exchange": "JSE",
+        "price": "R 26.83",
+        "change": "+66.00",
+        "change_percent": "2.52",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "MND",
+        "exchange": "JSE",
+        "price": "R 301.01",
+        "change": "-85.00",
+        "change_percent": "-0.28",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "APN",
+        "exchange": "JSE",
+        "price": "R 291.55",
+        "change": "-502.00",
+        "change_percent": "-1.69",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "BGA",
+        "exchange": "JSE",
+        "price": "R 159.54",
+        "change": "-343.00",
+        "change_percent": "-2.10",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SLM",
+        "exchange": "JSE",
+        "price": "R 68.16",
+        "change": "-54.00",
+        "change_percent": "-0.79",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "NED",
+        "exchange": "JSE",
+        "price": "R 247.00",
+        "change": "-219.00",
+        "change_percent": "-0.88",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "MNP",
+        "exchange": "JSE",
+        "price": "R 299.84",
+        "change": "-16.00",
+        "change_percent": "-0.05",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "MEI",
+        "exchange": "JSE",
+        "price": "R 135.05",
+        "change": "+5.00",
+        "change_percent": "0.04",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "SHP",
+        "exchange": "JSE",
+        "price": "R 173.06",
+        "change": "-359.00",
+        "change_percent": "-2.03",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "AMS",
+        "exchange": "JSE",
+        "price": "R 317.90",
+        "change": "+450.00",
+        "change_percent": "1.44",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "RMH",
+        "exchange": "JSE",
+        "price": "R 65.96",
+        "change": "-49.00",
+        "change_percent": "-0.74",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "INL",
+        "exchange": "JSE",
+        "price": "R 95.45",
+        "change": "-114.00",
+        "change_percent": "-1.18",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "CPI",
+        "exchange": "JSE",
+        "price": "R 714.35",
+        "change": "-772.00",
+        "change_percent": "-1.07",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "BID",
+        "exchange": "JSE",
+        "price": "R 229.97",
+        "change": "-290.00",
+        "change_percent": "-1.25",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "CATP",
+        "exchange": "JSE",
+        "price": "R 190.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 8, 9:10AM GMT+2"
+    },
+    {
+        "ticker": "TBS",
+        "exchange": "JSE",
+        "price": "R 417.55",
+        "change": "-403.00",
+        "change_percent": "-0.96",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "DSY",
+        "exchange": "JSE",
+        "price": "R 122.10",
+        "change": "-70.00",
+        "change_percent": "-0.57",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "HMN",
+        "exchange": "JSE",
+        "price": "R 91.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "ANG",
+        "exchange": "JSE",
+        "price": "R 171.25",
+        "change": "-113.00",
+        "change_percent": "-0.66",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "FFB",
+        "exchange": "JSE",
+        "price": "R 35.51",
+        "change": "-28.00",
+        "change_percent": "-0.78",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "GRT",
+        "exchange": "JSE",
+        "price": "R 26.87",
+        "change": "-9.00",
+        "change_percent": "-0.33",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "WHL",
+        "exchange": "JSE",
+        "price": "R 68.90",
+        "change": "-160.00",
+        "change_percent": "-2.27",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "KIO",
+        "exchange": "JSE",
+        "price": "R 210.71",
+        "change": "+100.00",
+        "change_percent": "0.48",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "INP",
+        "exchange": "JSE",
+        "price": "R 95.26",
+        "change": "-91.00",
+        "change_percent": "-0.95",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "ITU",
+        "exchange": "JSE",
+        "price": "R 43.79",
+        "change": "-24.00",
+        "change_percent": "-0.55",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "RMI",
+        "exchange": "JSE",
+        "price": "R 40.15",
+        "change": "-68.00",
+        "change_percent": "-1.67",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "GNDP",
+        "exchange": "JSE",
+        "price": "R 76.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:37AM GMT+2"
+    },
+    {
+        "ticker": "REI",
+        "exchange": "JSE",
+        "price": "R 27.70",
+        "change": "-16.00",
+        "change_percent": "-0.57",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "BVT",
+        "exchange": "JSE",
+        "price": "R 165.52",
+        "change": "-139.00",
+        "change_percent": "-0.83",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "NEP",
+        "exchange": "JSE",
+        "price": "R 151.00",
+        "change": "-140.00",
+        "change_percent": "-0.92",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "RDF",
+        "exchange": "JSE",
+        "price": "R 11.38",
+        "change": "-4.00",
+        "change_percent": "-0.35",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "RES",
+        "exchange": "JSE",
+        "price": "R 121.89",
+        "change": "-111.00",
+        "change_percent": "-0.90",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SAP",
+        "exchange": "JSE",
+        "price": "R 81.93",
+        "change": "-7.00",
+        "change_percent": "-0.09",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "NTC",
+        "exchange": "JSE",
+        "price": "R 31.90",
+        "change": "-50.00",
+        "change_percent": "-1.54",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "MRP",
+        "exchange": "JSE",
+        "price": "R 172.25",
+        "change": "-55.00",
+        "change_percent": "-0.32",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "CCO",
+        "exchange": "JSE",
+        "price": "R 47.18",
+        "change": "+17.00",
+        "change_percent": "0.36",
+        "last_trade_time": "Feb 17, 9:41AM GMT+2"
+    },
+    {
+        "ticker": "GFI",
+        "exchange": "JSE",
+        "price": "R 44.57",
+        "change": "-43.00",
+        "change_percent": "-0.96",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "BAT",
+        "exchange": "JSE",
+        "price": "R 75.90",
+        "change": "-93.00",
+        "change_percent": "-1.21",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "EXX",
+        "exchange": "JSE",
+        "price": "R 106.30",
+        "change": "-70.00",
+        "change_percent": "-0.65",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "IMP",
+        "exchange": "JSE",
+        "price": "R 50.03",
+        "change": "-62.00",
+        "change_percent": "-1.22",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "TKG",
+        "exchange": "JSE",
+        "price": "R 73.00",
+        "change": "-69.00",
+        "change_percent": "-0.94",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "MMI",
+        "exchange": "JSE",
+        "price": "R 25.89",
+        "change": "-18.00",
+        "change_percent": "-0.69",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "PSG",
+        "exchange": "JSE",
+        "price": "R 246.75",
+        "change": "-125.00",
+        "change_percent": "-0.50",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "FFA",
+        "exchange": "JSE",
+        "price": "R 17.60",
+        "change": "-17.00",
+        "change_percent": "-0.96",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "LHC",
+        "exchange": "JSE",
+        "price": "R 33.90",
+        "change": "-37.00",
+        "change_percent": "-1.08",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "IPL",
+        "exchange": "JSE",
+        "price": "R 183.07",
+        "change": "-168.00",
+        "change_percent": "-0.91",
+        "last_trade_time": "Feb 17, 9:38AM GMT+2"
+    },
+    {
+        "ticker": "SPP",
+        "exchange": "JSE",
+        "price": "R 180.44",
+        "change": "-102.00",
+        "change_percent": "-0.56",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "TRU",
+        "exchange": "JSE",
+        "price": "R 84.50",
+        "change": "+27.00",
+        "change_percent": "0.32",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "DST",
+        "exchange": "JSE",
+        "price": "R 145.99",
+        "change": "+50.00",
+        "change_percent": "0.34",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "LBH",
+        "exchange": "JSE",
+        "price": "R 116.30",
+        "change": "-97.00",
+        "change_percent": "-0.83",
+        "last_trade_time": "Feb 17, 9:35AM GMT+2"
+    },
+    {
+        "ticker": "TFG",
+        "exchange": "JSE",
+        "price": "R 164.44",
+        "change": "-8.00",
+        "change_percent": "-0.05",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "PIK",
+        "exchange": "JSE",
+        "price": "R 69.00",
+        "change": "-37.00",
+        "change_percent": "-0.53",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "ROC",
+        "exchange": "JSE",
+        "price": "R 33.81",
+        "change": "-15.00",
+        "change_percent": "-0.44",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "PFG",
+        "exchange": "JSE",
+        "price": "R 170.66",
+        "change": "-78.00",
+        "change_percent": "-0.45",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "AVI",
+        "exchange": "JSE",
+        "price": "R 94.88",
+        "change": "-92.00",
+        "change_percent": "-0.96",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "ASR",
+        "exchange": "JSE",
+        "price": "R 275.61",
+        "change": "-54.00",
+        "change_percent": "-0.20",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "HYP",
+        "exchange": "JSE",
+        "price": "R 121.96",
+        "change": "-105.00",
+        "change_percent": "-0.85",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "MSM",
+        "exchange": "JSE",
+        "price": "R 133.66",
+        "change": "-184.00",
+        "change_percent": "-1.36",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "CLS",
+        "exchange": "JSE",
+        "price": "R 126.01",
+        "change": "+31.00",
+        "change_percent": "0.25",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "SGL",
+        "exchange": "JSE",
+        "price": "R 28.90",
+        "change": "-35.00",
+        "change_percent": "-1.20",
+        "last_trade_time": "Feb 17, 9:41AM GMT+2"
+    },
+    {
+        "ticker": "SNT",
+        "exchange": "JSE",
+        "price": "R 242.21",
+        "change": "-422.00",
+        "change_percent": "-1.71",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "TSH",
+        "exchange": "JSE",
+        "price": "R 27.65",
+        "change": "-39.00",
+        "change_percent": "-1.39",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "BAW",
+        "exchange": "JSE",
+        "price": "R 114.18",
+        "change": "-77.00",
+        "change_percent": "-0.67",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "CML",
+        "exchange": "JSE",
+        "price": "R 66.20",
+        "change": "-70.00",
+        "change_percent": "-1.05",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "ARI",
+        "exchange": "JSE",
+        "price": "R 109.01",
+        "change": "-11.00",
+        "change_percent": "-0.10",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "DCP",
+        "exchange": "JSE",
+        "price": "R 25.19",
+        "change": "+44.00",
+        "change_percent": "1.78",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "COH",
+        "exchange": "JSE",
+        "price": "R 47.65",
+        "change": "-10.00",
+        "change_percent": "-0.21",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "KAP",
+        "exchange": "JSE",
+        "price": "R 9.23",
+        "change": "+1.00",
+        "change_percent": "0.11",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "IPLP",
+        "exchange": "JSE",
+        "price": "R 76.51",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "NHM",
+        "exchange": "JSE",
+        "price": "R 51.85",
+        "change": "+24.00",
+        "change_percent": "0.47",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "EOH",
+        "exchange": "JSE",
+        "price": "R 150.88",
+        "change": "-164.00",
+        "change_percent": "-1.08",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "TON",
+        "exchange": "JSE",
+        "price": "R 128.18",
+        "change": "-323.00",
+        "change_percent": "-2.46",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "ORL",
+        "exchange": "JSE",
+        "price": "R 20.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 13, 3:45PM GMT+2"
+    },
+    {
+        "ticker": "HAR",
+        "exchange": "JSE",
+        "price": "R 37.91",
+        "change": "+76.00",
+        "change_percent": "2.05",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "ACL",
+        "exchange": "JSE",
+        "price": "R 13.46",
+        "change": "-9.00",
+        "change_percent": "-0.66",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "FBR",
+        "exchange": "JSE",
+        "price": "R 152.60",
+        "change": "-55.00",
+        "change_percent": "-0.36",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "JSE",
+        "exchange": "JSE",
+        "price": "R 162.47",
+        "change": "-43.00",
+        "change_percent": "-0.26",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "OCE",
+        "exchange": "JSE",
+        "price": "R 116.91",
+        "change": "-124.00",
+        "change_percent": "-1.05",
+        "last_trade_time": "Feb 17, 9:30AM GMT+2"
+    },
+    {
+        "ticker": "GTC",
+        "exchange": "JSE",
+        "price": "R 28.70",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Dec 12, 1:20PM GMT+2"
+    },
+    {
+        "ticker": "ITE",
+        "exchange": "JSE",
+        "price": "R 13.51",
+        "change": "-4.00",
+        "change_percent": "-0.30",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "VKE",
+        "exchange": "JSE",
+        "price": "R 19.95",
+        "change": "+48.00",
+        "change_percent": "2.47",
+        "last_trade_time": "Feb 17, 9:35AM GMT+2"
+    },
+    {
+        "ticker": "SAC",
+        "exchange": "JSE",
+        "price": "R 5.71",
+        "change": "-9.00",
+        "change_percent": "-1.55",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "RLO",
+        "exchange": "JSE",
+        "price": "R 72.76",
+        "change": "-24.00",
+        "change_percent": "-0.33",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "ATT",
+        "exchange": "JSE",
+        "price": "R 18.41",
+        "change": "-5.00",
+        "change_percent": "-0.27",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "RCL",
+        "exchange": "JSE",
+        "price": "R 15.88",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "SPG",
+        "exchange": "JSE",
+        "price": "R 37.46",
+        "change": "+40.00",
+        "change_percent": "1.08",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "BLU",
+        "exchange": "JSE",
+        "price": "R 17.89",
+        "change": "-17.00",
+        "change_percent": "-0.94",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "OMN",
+        "exchange": "JSE",
+        "price": "R 177.00",
+        "change": "-97.00",
+        "change_percent": "-0.55",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "DTC",
+        "exchange": "JSE",
+        "price": "R 56.41",
+        "change": "-60.00",
+        "change_percent": "-1.05",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "HCI",
+        "exchange": "JSE",
+        "price": "R 135.00",
+        "change": "-3.00",
+        "change_percent": "-0.02",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "APKP",
+        "exchange": "JSE",
+        "price": "R 98.25",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "NPK",
+        "exchange": "JSE",
+        "price": "R 17.15",
+        "change": "-19.00",
+        "change_percent": "-1.10",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "AFE",
+        "exchange": "JSE",
+        "price": "R 103.61",
+        "change": "-104.00",
+        "change_percent": "-0.99",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "ZED",
+        "exchange": "JSE",
+        "price": "R 7.60",
+        "change": "-6.00",
+        "change_percent": "-0.78",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "IPF",
+        "exchange": "JSE",
+        "price": "R 16.50",
+        "change": "-25.00",
+        "change_percent": "-1.49",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "GND",
+        "exchange": "JSE",
+        "price": "R 14.13",
+        "change": "-7.00",
+        "change_percent": "-0.49",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "PPC",
+        "exchange": "JSE",
+        "price": "R 7.15",
+        "change": "-5.00",
+        "change_percent": "-0.69",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "KST",
+        "exchange": "JSE",
+        "price": "R 7.75",
+        "change": "+8.00",
+        "change_percent": "1.04",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "ADH",
+        "exchange": "JSE",
+        "price": "R 18.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "AFH",
+        "exchange": "JSE",
+        "price": "R 6.93",
+        "change": "-2.00",
+        "change_percent": "-0.29",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "AWA",
+        "exchange": "JSE",
+        "price": "R 8.93",
+        "change": "-4.00",
+        "change_percent": "-0.45",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "CPIP",
+        "exchange": "JSE",
+        "price": "R 94.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:34PM GMT+2"
+    },
+    {
+        "ticker": "AIP",
+        "exchange": "JSE",
+        "price": "R 54.23",
+        "change": "-61.00",
+        "change_percent": "-1.11",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "NT1",
+        "exchange": "JSE",
+        "price": "R 168.75",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:41PM GMT+2"
+    },
+    {
+        "ticker": "SUI",
+        "exchange": "JSE",
+        "price": "R 89.05",
+        "change": "-35.00",
+        "change_percent": "-0.39",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "TCP",
+        "exchange": "JSE",
+        "price": "R 14.51",
+        "change": "-8.00",
+        "change_percent": "-0.55",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "CVH",
+        "exchange": "JSE",
+        "price": "R 9.02",
+        "change": "-13.00",
+        "change_percent": "-1.42",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "CSB",
+        "exchange": "JSE",
+        "price": "R 381.08",
+        "change": "-508.00",
+        "change_percent": "-1.32",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "RBP",
+        "exchange": "JSE",
+        "price": "R 40.00",
+        "change": "+34.00",
+        "change_percent": "0.86",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "WBO",
+        "exchange": "JSE",
+        "price": "R 148.37",
+        "change": "-393.00",
+        "change_percent": "-2.58",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "MSP",
+        "exchange": "JSE",
+        "price": "R 22.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:23AM GMT+2"
+    },
+    {
+        "ticker": "GRP",
+        "exchange": "JSE",
+        "price": "R 1.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "EMI",
+        "exchange": "JSE",
+        "price": "R 14.62",
+        "change": "-11.00",
+        "change_percent": "-0.75",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "SRE",
+        "exchange": "JSE",
+        "price": "R 8.01",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "IVT",
+        "exchange": "JSE",
+        "price": "R 62.11",
+        "change": "+11.00",
+        "change_percent": "0.18",
+        "last_trade_time": "Feb 17, 9:26AM GMT+2"
+    },
+    {
+        "ticker": "TRE",
+        "exchange": "JSE",
+        "price": "R 38.81",
+        "change": "-49.00",
+        "change_percent": "-1.25",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "THA",
+        "exchange": "JSE",
+        "price": "R 26.50",
+        "change": "-100.00",
+        "change_percent": "-3.64",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "CRP",
+        "exchange": "JSE",
+        "price": "R 9.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:02PM GMT+2"
+    },
+    {
+        "ticker": "ASC",
+        "exchange": "JSE",
+        "price": "R 22.32",
+        "change": "-31.00",
+        "change_percent": "-1.37",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "REB",
+        "exchange": "JSE",
+        "price": "R 13.26",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:23AM GMT+2"
+    },
+    {
+        "ticker": "CLH",
+        "exchange": "JSE",
+        "price": "R 153.44",
+        "change": "+632.00",
+        "change_percent": "4.30",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "LON",
+        "exchange": "JSE",
+        "price": "R 21.60",
+        "change": "-30.00",
+        "change_percent": "-1.37",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "RFG",
+        "exchange": "JSE",
+        "price": "R 26.40",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:26AM GMT+2"
+    },
+    {
+        "ticker": "PGR",
+        "exchange": "JSE",
+        "price": "R 30.14",
+        "change": "-30.00",
+        "change_percent": "-0.99",
+        "last_trade_time": "Feb 17, 9:28AM GMT+2"
+    },
+    {
+        "ticker": "AFX",
+        "exchange": "JSE",
+        "price": "R 19.24",
+        "change": "+19.00",
+        "change_percent": "1.00",
+        "last_trade_time": "Feb 17, 9:28AM GMT+2"
+    },
+    {
+        "ticker": "ARL",
+        "exchange": "JSE",
+        "price": "R 147.12",
+        "change": "-58.00",
+        "change_percent": "-0.39",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "OCT",
+        "exchange": "JSE",
+        "price": "R 24.02",
+        "change": "-63.00",
+        "change_percent": "-2.56",
+        "last_trade_time": "Feb 17, 9:10AM GMT+2"
+    },
+    {
+        "ticker": "DLT",
+        "exchange": "JSE",
+        "price": "R 8.25",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "ERN",
+        "exchange": "JSE",
+        "price": "R 27.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:33PM GMT+2"
+    },
+    {
+        "ticker": "APF",
+        "exchange": "JSE",
+        "price": "R 6.80",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "PAN",
+        "exchange": "JSE",
+        "price": "R 2.83",
+        "change": "-4.00",
+        "change_percent": "-1.39",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "CLI",
+        "exchange": "JSE",
+        "price": "R 19.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "CAT",
+        "exchange": "JSE",
+        "price": "R 13.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:41AM GMT+2"
+    },
+    {
+        "ticker": "NBKP",
+        "exchange": "JSE",
+        "price": "R 9.35",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "MPT",
+        "exchange": "JSE",
+        "price": "R 30.54",
+        "change": "-67.00",
+        "change_percent": "-2.15",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "STP",
+        "exchange": "JSE",
+        "price": "R 17.99",
+        "change": "+28.00",
+        "change_percent": "1.58",
+        "last_trade_time": "Feb 17, 9:30AM GMT+2"
+    },
+    {
+        "ticker": "DIB",
+        "exchange": "JSE",
+        "price": "R 11.95",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:23PM GMT+2"
+    },
+    {
+        "ticker": "MRF",
+        "exchange": "JSE",
+        "price": "R 1.99",
+        "change": "+1.00",
+        "change_percent": "0.51",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "AFT",
+        "exchange": "JSE",
+        "price": "R 31.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:26AM GMT+2"
+    },
+    {
+        "ticker": "MUR",
+        "exchange": "JSE",
+        "price": "R 15.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "EQU",
+        "exchange": "JSE",
+        "price": "R 15.98",
+        "change": "+8.00",
+        "change_percent": "0.50",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "IAP",
+        "exchange": "JSE",
+        "price": "R 0.00",
+        "change": "",
+        "change_percent": "",
+        "last_trade_time": ""
+    },
+    {
+        "ticker": "MTA",
+        "exchange": "JSE",
+        "price": "R 24.36",
+        "change": "-14.00",
+        "change_percent": "-0.57",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "NIV",
+        "exchange": "JSE",
+        "price": "R 37.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:31PM GMT+2"
+    },
+    {
+        "ticker": "CHP",
+        "exchange": "JSE",
+        "price": "R 3.45",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:02AM GMT+2"
+    },
+    {
+        "ticker": "DIA",
+        "exchange": "JSE",
+        "price": "R 10.40",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 11:41AM GMT+2"
+    },
+    {
+        "ticker": "RBX",
+        "exchange": "JSE",
+        "price": "R 23.99",
+        "change": "-35.00",
+        "change_percent": "-1.44",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "HDC",
+        "exchange": "JSE",
+        "price": "R 137.00",
+        "change": "+7.00",
+        "change_percent": "0.05",
+        "last_trade_time": "Feb 17, 9:28AM GMT+2"
+    },
+    {
+        "ticker": "EMH",
+        "exchange": "JSE",
+        "price": "R 6.99",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:12PM GMT+2"
+    },
+    {
+        "ticker": "TDH",
+        "exchange": "JSE",
+        "price": "R 20.50",
+        "change": "-49.00",
+        "change_percent": "-2.33",
+        "last_trade_time": "Feb 17, 9:33AM GMT+2"
+    },
+    {
+        "ticker": "HPB",
+        "exchange": "JSE",
+        "price": "R 14.24",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "LEW",
+        "exchange": "JSE",
+        "price": "R 42.46",
+        "change": "+46.00",
+        "change_percent": "1.10",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "CIL",
+        "exchange": "JSE",
+        "price": "R 23.31",
+        "change": "-17.00",
+        "change_percent": "-0.72",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "HIL",
+        "exchange": "JSE",
+        "price": "R 35.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 3:13PM GMT+2"
+    },
+    {
+        "ticker": "AEL",
+        "exchange": "JSE",
+        "price": "R 10.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "ACT",
+        "exchange": "JSE",
+        "price": "R 6.40",
+        "change": "+5.00",
+        "change_percent": "0.79",
+        "last_trade_time": "Feb 17, 9:24AM GMT+2"
+    },
+    {
+        "ticker": "DRD",
+        "exchange": "JSE",
+        "price": "R 8.09",
+        "change": "-17.00",
+        "change_percent": "-2.06",
+        "last_trade_time": "Feb 17, 9:25AM GMT+2"
+    },
+    {
+        "ticker": "SUR",
+        "exchange": "JSE",
+        "price": "R 33.10",
+        "change": "-32.00",
+        "change_percent": "-0.96",
+        "last_trade_time": "Feb 17, 9:25AM GMT+2"
+    },
+    {
+        "ticker": "PGL",
+        "exchange": "JSE",
+        "price": "R 4.64",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:47PM GMT+2"
+    },
+    {
+        "ticker": "BRN",
+        "exchange": "JSE",
+        "price": "R 15.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "CLR",
+        "exchange": "JSE",
+        "price": "R 18.70",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "AEL",
+        "exchange": "JSE",
+        "price": "R 10.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "CTK",
+        "exchange": "JSE",
+        "price": "R 10.90",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:19AM GMT+2"
+    },
+    {
+        "ticker": "PNC",
+        "exchange": "JSE",
+        "price": "R 19.50",
+        "change": "+1.00",
+        "change_percent": "0.05",
+        "last_trade_time": "Feb 17, 9:27AM GMT+2"
+    },
+    {
+        "ticker": "OAO",
+        "exchange": "JSE",
+        "price": "R 0.26",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:54PM GMT+2"
+    },
+    {
+        "ticker": "BRT",
+        "exchange": "JSE",
+        "price": "R 16.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 9:51AM GMT+2"
+    },
+    {
+        "ticker": "AIA",
+        "exchange": "JSE",
+        "price": "R 4.55",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:47PM GMT+2"
+    },
+    {
+        "ticker": "TTO",
+        "exchange": "JSE",
+        "price": "R 4.05",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:44PM GMT+2"
+    },
+    {
+        "ticker": "NVS",
+        "exchange": "JSE",
+        "price": "R 9.45",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 11:23AM GMT+2"
+    },
+    {
+        "ticker": "NFP",
+        "exchange": "JSE",
+        "price": "R 19.96",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Jan 30, 1:32PM GMT+2"
+    },
+    {
+        "ticker": "AEG",
+        "exchange": "JSE",
+        "price": "R 7.48",
+        "change": "+12.00",
+        "change_percent": "1.63",
+        "last_trade_time": "Feb 17, 9:23AM GMT+2"
+    },
+    {
+        "ticker": "TEX",
+        "exchange": "JSE",
+        "price": "R 8.11",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:16AM GMT+2"
+    },
+    {
+        "ticker": "TWR",
+        "exchange": "JSE",
+        "price": "R 8.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:10AM GMT+2"
+    },
+    {
+        "ticker": "SFNP",
+        "exchange": "JSE",
+        "price": "R 75.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:11PM GMT+2"
+    },
+    {
+        "ticker": "ACS",
+        "exchange": "JSE",
+        "price": "R 7.10",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:56PM GMT+2"
+    },
+    {
+        "ticker": "ALP",
+        "exchange": "JSE",
+        "price": "R 18.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 2:33PM GMT+2"
+    },
+    {
+        "ticker": "HSP",
+        "exchange": "JSE",
+        "price": "R 61.00",
+        "change": "-4.00",
+        "change_percent": "-0.07",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "ILU",
+        "exchange": "JSE",
+        "price": "R 10.90",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "EMN",
+        "exchange": "JSE",
+        "price": "R 5.85",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "GRF",
+        "exchange": "JSE",
+        "price": "R 23.85",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:17AM GMT+2"
+    },
+    {
+        "ticker": "MDI",
+        "exchange": "JSE",
+        "price": "R 18.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:12AM GMT+2"
+    },
+    {
+        "ticker": "MIX",
+        "exchange": "JSE",
+        "price": "R 3.80",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:05PM GMT+2"
+    },
+    {
+        "ticker": "ANH",
+        "exchange": "JSE",
+        "price": "R 1401.22",
+        "change": "+146.00",
+        "change_percent": "0.10",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "BTI",
+        "exchange": "JSE",
+        "price": "R 805.00",
+        "change": "+184.00",
+        "change_percent": "0.23",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "BIL",
+        "exchange": "JSE",
+        "price": "R 227.18",
+        "change": "-187.00",
+        "change_percent": "-0.82",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "NPN",
+        "exchange": "JSE",
+        "price": "R 2162.99",
+        "change": "-346.00",
+        "change_percent": "-0.16",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "GLN",
+        "exchange": "JSE",
+        "price": "R 52.52",
+        "change": "+7.00",
+        "change_percent": "0.13",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "CFR",
+        "exchange": "JSE",
+        "price": "R 98.85",
+        "change": "-12.00",
+        "change_percent": "-0.12",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "ABSP",
+        "exchange": "JSE",
+        "price": "R 800.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "AGL",
+        "exchange": "JSE",
+        "price": "R 219.38",
+        "change": "-51.00",
+        "change_percent": "-0.23",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SNH",
+        "exchange": "JSE",
+        "price": "R 67.30",
+        "change": "-43.00",
+        "change_percent": "-0.63",
+        "last_trade_time": "Feb 17, 9:41AM GMT+2"
+    },
+    {
+        "ticker": "FSR",
+        "exchange": "JSE",
+        "price": "R 52.08",
+        "change": "-40.00",
+        "change_percent": "-0.76",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SOL",
+        "exchange": "JSE",
+        "price": "R 375.55",
+        "change": "-55.00",
+        "change_percent": "-0.15",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SBK",
+        "exchange": "JSE",
+        "price": "R 146.50",
+        "change": "-182.00",
+        "change_percent": "-1.23",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "VOD",
+        "exchange": "JSE",
+        "price": "R 149.55",
+        "change": "-165.00",
+        "change_percent": "-1.09",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "MTN",
+        "exchange": "JSE",
+        "price": "R 119.39",
+        "change": "-11.00",
+        "change_percent": "-0.09",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SOLBE1",
+        "exchange": "JSE",
+        "price": "R 310.10",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:34PM GMT+2"
+    },
+    {
+        "ticker": "REM",
+        "exchange": "JSE",
+        "price": "R 229.93",
+        "change": "-128.00",
+        "change_percent": "-0.55",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "OML",
+        "exchange": "JSE",
+        "price": "R 35.08",
+        "change": "-27.00",
+        "change_percent": "-0.76",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "SBPP",
+        "exchange": "JSE",
+        "price": "R 86.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "S32",
+        "exchange": "JSE",
+        "price": "R 26.83",
+        "change": "+66.00",
+        "change_percent": "2.52",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "MND",
+        "exchange": "JSE",
+        "price": "R 301.01",
+        "change": "-85.00",
+        "change_percent": "-0.28",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "APN",
+        "exchange": "JSE",
+        "price": "R 291.55",
+        "change": "-502.00",
+        "change_percent": "-1.69",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "BGA",
+        "exchange": "JSE",
+        "price": "R 159.54",
+        "change": "-343.00",
+        "change_percent": "-2.10",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SLM",
+        "exchange": "JSE",
+        "price": "R 68.16",
+        "change": "-54.00",
+        "change_percent": "-0.79",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "NED",
+        "exchange": "JSE",
+        "price": "R 247.00",
+        "change": "-219.00",
+        "change_percent": "-0.88",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "MNP",
+        "exchange": "JSE",
+        "price": "R 299.84",
+        "change": "-16.00",
+        "change_percent": "-0.05",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "MEI",
+        "exchange": "JSE",
+        "price": "R 135.05",
+        "change": "+5.00",
+        "change_percent": "0.04",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "SHP",
+        "exchange": "JSE",
+        "price": "R 173.06",
+        "change": "-359.00",
+        "change_percent": "-2.03",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "AMS",
+        "exchange": "JSE",
+        "price": "R 317.90",
+        "change": "+450.00",
+        "change_percent": "1.44",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "RMH",
+        "exchange": "JSE",
+        "price": "R 65.96",
+        "change": "-49.00",
+        "change_percent": "-0.74",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "INL",
+        "exchange": "JSE",
+        "price": "R 95.45",
+        "change": "-114.00",
+        "change_percent": "-1.18",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "CPI",
+        "exchange": "JSE",
+        "price": "R 714.35",
+        "change": "-772.00",
+        "change_percent": "-1.07",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "BID",
+        "exchange": "JSE",
+        "price": "R 229.97",
+        "change": "-290.00",
+        "change_percent": "-1.25",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "CATP",
+        "exchange": "JSE",
+        "price": "R 190.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 8, 9:10AM GMT+2"
+    },
+    {
+        "ticker": "TBS",
+        "exchange": "JSE",
+        "price": "R 417.55",
+        "change": "-403.00",
+        "change_percent": "-0.96",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "DSY",
+        "exchange": "JSE",
+        "price": "R 122.10",
+        "change": "-70.00",
+        "change_percent": "-0.57",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "HMN",
+        "exchange": "JSE",
+        "price": "R 91.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "ANG",
+        "exchange": "JSE",
+        "price": "R 171.25",
+        "change": "-113.00",
+        "change_percent": "-0.66",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "FFB",
+        "exchange": "JSE",
+        "price": "R 35.51",
+        "change": "-28.00",
+        "change_percent": "-0.78",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "GRT",
+        "exchange": "JSE",
+        "price": "R 26.87",
+        "change": "-9.00",
+        "change_percent": "-0.33",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "WHL",
+        "exchange": "JSE",
+        "price": "R 68.90",
+        "change": "-160.00",
+        "change_percent": "-2.27",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "KIO",
+        "exchange": "JSE",
+        "price": "R 210.71",
+        "change": "+100.00",
+        "change_percent": "0.48",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "INP",
+        "exchange": "JSE",
+        "price": "R 95.26",
+        "change": "-91.00",
+        "change_percent": "-0.95",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "ITU",
+        "exchange": "JSE",
+        "price": "R 43.79",
+        "change": "-24.00",
+        "change_percent": "-0.55",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "RMI",
+        "exchange": "JSE",
+        "price": "R 40.15",
+        "change": "-68.00",
+        "change_percent": "-1.67",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "GNDP",
+        "exchange": "JSE",
+        "price": "R 76.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:37AM GMT+2"
+    },
+    {
+        "ticker": "REI",
+        "exchange": "JSE",
+        "price": "R 27.70",
+        "change": "-16.00",
+        "change_percent": "-0.57",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "BVT",
+        "exchange": "JSE",
+        "price": "R 165.52",
+        "change": "-139.00",
+        "change_percent": "-0.83",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "NEP",
+        "exchange": "JSE",
+        "price": "R 151.00",
+        "change": "-140.00",
+        "change_percent": "-0.92",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "RDF",
+        "exchange": "JSE",
+        "price": "R 11.38",
+        "change": "-4.00",
+        "change_percent": "-0.35",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "RES",
+        "exchange": "JSE",
+        "price": "R 121.89",
+        "change": "-111.00",
+        "change_percent": "-0.90",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SAP",
+        "exchange": "JSE",
+        "price": "R 81.93",
+        "change": "-7.00",
+        "change_percent": "-0.09",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "NTC",
+        "exchange": "JSE",
+        "price": "R 31.90",
+        "change": "-50.00",
+        "change_percent": "-1.54",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "MRP",
+        "exchange": "JSE",
+        "price": "R 172.25",
+        "change": "-55.00",
+        "change_percent": "-0.32",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "CCO",
+        "exchange": "JSE",
+        "price": "R 47.18",
+        "change": "+17.00",
+        "change_percent": "0.36",
+        "last_trade_time": "Feb 17, 9:41AM GMT+2"
+    },
+    {
+        "ticker": "GFI",
+        "exchange": "JSE",
+        "price": "R 44.57",
+        "change": "-43.00",
+        "change_percent": "-0.96",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "BAT",
+        "exchange": "JSE",
+        "price": "R 75.90",
+        "change": "-93.00",
+        "change_percent": "-1.21",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "EXX",
+        "exchange": "JSE",
+        "price": "R 106.30",
+        "change": "-70.00",
+        "change_percent": "-0.65",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "IMP",
+        "exchange": "JSE",
+        "price": "R 50.03",
+        "change": "-62.00",
+        "change_percent": "-1.22",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "TKG",
+        "exchange": "JSE",
+        "price": "R 73.00",
+        "change": "-69.00",
+        "change_percent": "-0.94",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "MMI",
+        "exchange": "JSE",
+        "price": "R 25.89",
+        "change": "-18.00",
+        "change_percent": "-0.69",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "PSG",
+        "exchange": "JSE",
+        "price": "R 246.75",
+        "change": "-125.00",
+        "change_percent": "-0.50",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "FFA",
+        "exchange": "JSE",
+        "price": "R 17.60",
+        "change": "-17.00",
+        "change_percent": "-0.96",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "LHC",
+        "exchange": "JSE",
+        "price": "R 33.90",
+        "change": "-37.00",
+        "change_percent": "-1.08",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "IPL",
+        "exchange": "JSE",
+        "price": "R 183.07",
+        "change": "-168.00",
+        "change_percent": "-0.91",
+        "last_trade_time": "Feb 17, 9:38AM GMT+2"
+    },
+    {
+        "ticker": "SPP",
+        "exchange": "JSE",
+        "price": "R 180.44",
+        "change": "-102.00",
+        "change_percent": "-0.56",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "TRU",
+        "exchange": "JSE",
+        "price": "R 84.50",
+        "change": "+27.00",
+        "change_percent": "0.32",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "DST",
+        "exchange": "JSE",
+        "price": "R 145.99",
+        "change": "+50.00",
+        "change_percent": "0.34",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "LBH",
+        "exchange": "JSE",
+        "price": "R 116.30",
+        "change": "-97.00",
+        "change_percent": "-0.83",
+        "last_trade_time": "Feb 17, 9:35AM GMT+2"
+    },
+    {
+        "ticker": "TFG",
+        "exchange": "JSE",
+        "price": "R 164.44",
+        "change": "-8.00",
+        "change_percent": "-0.05",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "PIK",
+        "exchange": "JSE",
+        "price": "R 69.00",
+        "change": "-37.00",
+        "change_percent": "-0.53",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "ROC",
+        "exchange": "JSE",
+        "price": "R 33.81",
+        "change": "-15.00",
+        "change_percent": "-0.44",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "PFG",
+        "exchange": "JSE",
+        "price": "R 170.66",
+        "change": "-78.00",
+        "change_percent": "-0.45",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "AVI",
+        "exchange": "JSE",
+        "price": "R 94.88",
+        "change": "-92.00",
+        "change_percent": "-0.96",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "ASR",
+        "exchange": "JSE",
+        "price": "R 275.61",
+        "change": "-54.00",
+        "change_percent": "-0.20",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "HYP",
+        "exchange": "JSE",
+        "price": "R 121.96",
+        "change": "-105.00",
+        "change_percent": "-0.85",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "MSM",
+        "exchange": "JSE",
+        "price": "R 133.66",
+        "change": "-184.00",
+        "change_percent": "-1.36",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "CLS",
+        "exchange": "JSE",
+        "price": "R 126.01",
+        "change": "+31.00",
+        "change_percent": "0.25",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "SGL",
+        "exchange": "JSE",
+        "price": "R 28.90",
+        "change": "-35.00",
+        "change_percent": "-1.20",
+        "last_trade_time": "Feb 17, 9:41AM GMT+2"
+    },
+    {
+        "ticker": "SNT",
+        "exchange": "JSE",
+        "price": "R 242.21",
+        "change": "-422.00",
+        "change_percent": "-1.71",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "TSH",
+        "exchange": "JSE",
+        "price": "R 27.65",
+        "change": "-39.00",
+        "change_percent": "-1.39",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "BAW",
+        "exchange": "JSE",
+        "price": "R 114.18",
+        "change": "-77.00",
+        "change_percent": "-0.67",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "CML",
+        "exchange": "JSE",
+        "price": "R 66.20",
+        "change": "-70.00",
+        "change_percent": "-1.05",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "ARI",
+        "exchange": "JSE",
+        "price": "R 109.01",
+        "change": "-11.00",
+        "change_percent": "-0.10",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "DCP",
+        "exchange": "JSE",
+        "price": "R 25.19",
+        "change": "+44.00",
+        "change_percent": "1.78",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "COH",
+        "exchange": "JSE",
+        "price": "R 47.65",
+        "change": "-10.00",
+        "change_percent": "-0.21",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "KAP",
+        "exchange": "JSE",
+        "price": "R 9.23",
+        "change": "+1.00",
+        "change_percent": "0.11",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "IPLP",
+        "exchange": "JSE",
+        "price": "R 76.51",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "NHM",
+        "exchange": "JSE",
+        "price": "R 51.85",
+        "change": "+24.00",
+        "change_percent": "0.47",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "EOH",
+        "exchange": "JSE",
+        "price": "R 150.88",
+        "change": "-164.00",
+        "change_percent": "-1.08",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "TON",
+        "exchange": "JSE",
+        "price": "R 128.18",
+        "change": "-323.00",
+        "change_percent": "-2.46",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "ORL",
+        "exchange": "JSE",
+        "price": "R 20.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 13, 3:45PM GMT+2"
+    },
+    {
+        "ticker": "HAR",
+        "exchange": "JSE",
+        "price": "R 37.91",
+        "change": "+76.00",
+        "change_percent": "2.05",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "ACL",
+        "exchange": "JSE",
+        "price": "R 13.46",
+        "change": "-9.00",
+        "change_percent": "-0.66",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "FBR",
+        "exchange": "JSE",
+        "price": "R 152.60",
+        "change": "-55.00",
+        "change_percent": "-0.36",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "JSE",
+        "exchange": "JSE",
+        "price": "R 162.47",
+        "change": "-43.00",
+        "change_percent": "-0.26",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "OCE",
+        "exchange": "JSE",
+        "price": "R 116.91",
+        "change": "-124.00",
+        "change_percent": "-1.05",
+        "last_trade_time": "Feb 17, 9:30AM GMT+2"
+    },
+    {
+        "ticker": "GTC",
+        "exchange": "JSE",
+        "price": "R 28.70",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Dec 12, 1:20PM GMT+2"
+    },
+    {
+        "ticker": "ITE",
+        "exchange": "JSE",
+        "price": "R 13.51",
+        "change": "-4.00",
+        "change_percent": "-0.30",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "VKE",
+        "exchange": "JSE",
+        "price": "R 19.95",
+        "change": "+48.00",
+        "change_percent": "2.47",
+        "last_trade_time": "Feb 17, 9:35AM GMT+2"
+    },
+    {
+        "ticker": "SAC",
+        "exchange": "JSE",
+        "price": "R 5.71",
+        "change": "-9.00",
+        "change_percent": "-1.55",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "RLO",
+        "exchange": "JSE",
+        "price": "R 72.76",
+        "change": "-24.00",
+        "change_percent": "-0.33",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "ATT",
+        "exchange": "JSE",
+        "price": "R 18.41",
+        "change": "-5.00",
+        "change_percent": "-0.27",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "RCL",
+        "exchange": "JSE",
+        "price": "R 15.88",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "SPG",
+        "exchange": "JSE",
+        "price": "R 37.46",
+        "change": "+40.00",
+        "change_percent": "1.08",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "BLU",
+        "exchange": "JSE",
+        "price": "R 17.89",
+        "change": "-17.00",
+        "change_percent": "-0.94",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "OMN",
+        "exchange": "JSE",
+        "price": "R 177.00",
+        "change": "-97.00",
+        "change_percent": "-0.55",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "DTC",
+        "exchange": "JSE",
+        "price": "R 56.41",
+        "change": "-60.00",
+        "change_percent": "-1.05",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "HCI",
+        "exchange": "JSE",
+        "price": "R 135.00",
+        "change": "-3.00",
+        "change_percent": "-0.02",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "APKP",
+        "exchange": "JSE",
+        "price": "R 98.25",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "NPK",
+        "exchange": "JSE",
+        "price": "R 17.15",
+        "change": "-19.00",
+        "change_percent": "-1.10",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "AFE",
+        "exchange": "JSE",
+        "price": "R 103.61",
+        "change": "-104.00",
+        "change_percent": "-0.99",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "ZED",
+        "exchange": "JSE",
+        "price": "R 7.60",
+        "change": "-6.00",
+        "change_percent": "-0.78",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "IPF",
+        "exchange": "JSE",
+        "price": "R 16.50",
+        "change": "-25.00",
+        "change_percent": "-1.49",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "GND",
+        "exchange": "JSE",
+        "price": "R 14.13",
+        "change": "-7.00",
+        "change_percent": "-0.49",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "PPC",
+        "exchange": "JSE",
+        "price": "R 7.15",
+        "change": "-5.00",
+        "change_percent": "-0.69",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "KST",
+        "exchange": "JSE",
+        "price": "R 7.75",
+        "change": "+8.00",
+        "change_percent": "1.04",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "ADH",
+        "exchange": "JSE",
+        "price": "R 18.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "AFH",
+        "exchange": "JSE",
+        "price": "R 6.93",
+        "change": "-2.00",
+        "change_percent": "-0.29",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "AWA",
+        "exchange": "JSE",
+        "price": "R 8.93",
+        "change": "-4.00",
+        "change_percent": "-0.45",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "CPIP",
+        "exchange": "JSE",
+        "price": "R 94.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:34PM GMT+2"
+    },
+    {
+        "ticker": "AIP",
+        "exchange": "JSE",
+        "price": "R 54.23",
+        "change": "-61.00",
+        "change_percent": "-1.11",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "NT1",
+        "exchange": "JSE",
+        "price": "R 168.75",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:41PM GMT+2"
+    },
+    {
+        "ticker": "SUI",
+        "exchange": "JSE",
+        "price": "R 89.05",
+        "change": "-35.00",
+        "change_percent": "-0.39",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "TCP",
+        "exchange": "JSE",
+        "price": "R 14.51",
+        "change": "-8.00",
+        "change_percent": "-0.55",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "CVH",
+        "exchange": "JSE",
+        "price": "R 9.02",
+        "change": "-13.00",
+        "change_percent": "-1.42",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "CSB",
+        "exchange": "JSE",
+        "price": "R 381.08",
+        "change": "-508.00",
+        "change_percent": "-1.32",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "RBP",
+        "exchange": "JSE",
+        "price": "R 40.00",
+        "change": "+34.00",
+        "change_percent": "0.86",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "WBO",
+        "exchange": "JSE",
+        "price": "R 148.37",
+        "change": "-393.00",
+        "change_percent": "-2.58",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "MSP",
+        "exchange": "JSE",
+        "price": "R 22.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:23AM GMT+2"
+    },
+    {
+        "ticker": "GRP",
+        "exchange": "JSE",
+        "price": "R 1.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "EMI",
+        "exchange": "JSE",
+        "price": "R 14.62",
+        "change": "-11.00",
+        "change_percent": "-0.75",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "SRE",
+        "exchange": "JSE",
+        "price": "R 8.01",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "IVT",
+        "exchange": "JSE",
+        "price": "R 62.11",
+        "change": "+11.00",
+        "change_percent": "0.18",
+        "last_trade_time": "Feb 17, 9:26AM GMT+2"
+    },
+    {
+        "ticker": "TRE",
+        "exchange": "JSE",
+        "price": "R 38.81",
+        "change": "-49.00",
+        "change_percent": "-1.25",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "THA",
+        "exchange": "JSE",
+        "price": "R 26.50",
+        "change": "-100.00",
+        "change_percent": "-3.64",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "CRP",
+        "exchange": "JSE",
+        "price": "R 9.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:02PM GMT+2"
+    },
+    {
+        "ticker": "ASC",
+        "exchange": "JSE",
+        "price": "R 22.32",
+        "change": "-31.00",
+        "change_percent": "-1.37",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "REB",
+        "exchange": "JSE",
+        "price": "R 13.26",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:23AM GMT+2"
+    },
+    {
+        "ticker": "CLH",
+        "exchange": "JSE",
+        "price": "R 153.44",
+        "change": "+632.00",
+        "change_percent": "4.30",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "LON",
+        "exchange": "JSE",
+        "price": "R 21.60",
+        "change": "-30.00",
+        "change_percent": "-1.37",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "RFG",
+        "exchange": "JSE",
+        "price": "R 26.40",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:26AM GMT+2"
+    },
+    {
+        "ticker": "PGR",
+        "exchange": "JSE",
+        "price": "R 30.14",
+        "change": "-30.00",
+        "change_percent": "-0.99",
+        "last_trade_time": "Feb 17, 9:28AM GMT+2"
+    },
+    {
+        "ticker": "AFX",
+        "exchange": "JSE",
+        "price": "R 19.24",
+        "change": "+19.00",
+        "change_percent": "1.00",
+        "last_trade_time": "Feb 17, 9:28AM GMT+2"
+    },
+    {
+        "ticker": "ARL",
+        "exchange": "JSE",
+        "price": "R 147.12",
+        "change": "-58.00",
+        "change_percent": "-0.39",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "OCT",
+        "exchange": "JSE",
+        "price": "R 24.02",
+        "change": "-63.00",
+        "change_percent": "-2.56",
+        "last_trade_time": "Feb 17, 9:10AM GMT+2"
+    },
+    {
+        "ticker": "DLT",
+        "exchange": "JSE",
+        "price": "R 8.25",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "ERN",
+        "exchange": "JSE",
+        "price": "R 27.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:33PM GMT+2"
+    },
+    {
+        "ticker": "APF",
+        "exchange": "JSE",
+        "price": "R 6.80",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "PAN",
+        "exchange": "JSE",
+        "price": "R 2.83",
+        "change": "-4.00",
+        "change_percent": "-1.39",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "CLI",
+        "exchange": "JSE",
+        "price": "R 19.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "CAT",
+        "exchange": "JSE",
+        "price": "R 13.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:41AM GMT+2"
+    },
+    {
+        "ticker": "NBKP",
+        "exchange": "JSE",
+        "price": "R 9.35",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "MPT",
+        "exchange": "JSE",
+        "price": "R 30.54",
+        "change": "-67.00",
+        "change_percent": "-2.15",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "STP",
+        "exchange": "JSE",
+        "price": "R 17.99",
+        "change": "+28.00",
+        "change_percent": "1.58",
+        "last_trade_time": "Feb 17, 9:30AM GMT+2"
+    },
+    {
+        "ticker": "DIB",
+        "exchange": "JSE",
+        "price": "R 11.95",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:23PM GMT+2"
+    },
+    {
+        "ticker": "MRF",
+        "exchange": "JSE",
+        "price": "R 1.99",
+        "change": "+1.00",
+        "change_percent": "0.51",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "AFT",
+        "exchange": "JSE",
+        "price": "R 31.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:26AM GMT+2"
+    },
+    {
+        "ticker": "MUR",
+        "exchange": "JSE",
+        "price": "R 15.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "EQU",
+        "exchange": "JSE",
+        "price": "R 15.98",
+        "change": "+8.00",
+        "change_percent": "0.50",
+        "last_trade_time": "Feb 17, 9:40AM GMT+2"
+    },
+    {
+        "ticker": "IAP",
+        "exchange": "JSE",
+        "price": "R 0.00",
+        "change": "",
+        "change_percent": "",
+        "last_trade_time": ""
+    },
+    {
+        "ticker": "MTA",
+        "exchange": "JSE",
+        "price": "R 24.36",
+        "change": "-14.00",
+        "change_percent": "-0.57",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "NIV",
+        "exchange": "JSE",
+        "price": "R 37.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:31PM GMT+2"
+    },
+    {
+        "ticker": "CHP",
+        "exchange": "JSE",
+        "price": "R 3.45",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:02AM GMT+2"
+    },
+    {
+        "ticker": "DIA",
+        "exchange": "JSE",
+        "price": "R 10.40",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 11:41AM GMT+2"
+    },
+    {
+        "ticker": "RBX",
+        "exchange": "JSE",
+        "price": "R 23.99",
+        "change": "-35.00",
+        "change_percent": "-1.44",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "HDC",
+        "exchange": "JSE",
+        "price": "R 137.00",
+        "change": "+7.00",
+        "change_percent": "0.05",
+        "last_trade_time": "Feb 17, 9:28AM GMT+2"
+    },
+    {
+        "ticker": "EMH",
+        "exchange": "JSE",
+        "price": "R 6.99",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:12PM GMT+2"
+    },
+    {
+        "ticker": "TDH",
+        "exchange": "JSE",
+        "price": "R 20.50",
+        "change": "-49.00",
+        "change_percent": "-2.33",
+        "last_trade_time": "Feb 17, 9:33AM GMT+2"
+    },
+    {
+        "ticker": "HPB",
+        "exchange": "JSE",
+        "price": "R 14.24",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "LEW",
+        "exchange": "JSE",
+        "price": "R 42.46",
+        "change": "+46.00",
+        "change_percent": "1.10",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "CIL",
+        "exchange": "JSE",
+        "price": "R 23.31",
+        "change": "-17.00",
+        "change_percent": "-0.72",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "HIL",
+        "exchange": "JSE",
+        "price": "R 35.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 3:13PM GMT+2"
+    },
+    {
+        "ticker": "AEL",
+        "exchange": "JSE",
+        "price": "R 10.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "ACT",
+        "exchange": "JSE",
+        "price": "R 6.40",
+        "change": "+5.00",
+        "change_percent": "0.79",
+        "last_trade_time": "Feb 17, 9:24AM GMT+2"
+    },
+    {
+        "ticker": "DRD",
+        "exchange": "JSE",
+        "price": "R 8.09",
+        "change": "-17.00",
+        "change_percent": "-2.06",
+        "last_trade_time": "Feb 17, 9:25AM GMT+2"
+    },
+    {
+        "ticker": "SUR",
+        "exchange": "JSE",
+        "price": "R 33.10",
+        "change": "-32.00",
+        "change_percent": "-0.96",
+        "last_trade_time": "Feb 17, 9:25AM GMT+2"
+    },
+    {
+        "ticker": "PGL",
+        "exchange": "JSE",
+        "price": "R 4.64",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:47PM GMT+2"
+    },
+    {
+        "ticker": "BRN",
+        "exchange": "JSE",
+        "price": "R 15.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "CLR",
+        "exchange": "JSE",
+        "price": "R 18.70",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "AEL",
+        "exchange": "JSE",
+        "price": "R 10.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:31AM GMT+2"
+    },
+    {
+        "ticker": "CTK",
+        "exchange": "JSE",
+        "price": "R 10.90",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:19AM GMT+2"
+    },
+    {
+        "ticker": "PNC",
+        "exchange": "JSE",
+        "price": "R 19.50",
+        "change": "+1.00",
+        "change_percent": "0.05",
+        "last_trade_time": "Feb 17, 9:27AM GMT+2"
+    },
+    {
+        "ticker": "OAO",
+        "exchange": "JSE",
+        "price": "R 0.26",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:54PM GMT+2"
+    },
+    {
+        "ticker": "BRT",
+        "exchange": "JSE",
+        "price": "R 16.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 9:51AM GMT+2"
+    },
+    {
+        "ticker": "AIA",
+        "exchange": "JSE",
+        "price": "R 4.55",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:47PM GMT+2"
+    },
+    {
+        "ticker": "TTO",
+        "exchange": "JSE",
+        "price": "R 4.05",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:44PM GMT+2"
+    },
+    {
+        "ticker": "NVS",
+        "exchange": "JSE",
+        "price": "R 9.45",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 11:23AM GMT+2"
+    },
+    {
+        "ticker": "NFP",
+        "exchange": "JSE",
+        "price": "R 19.96",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Jan 30, 1:32PM GMT+2"
+    },
+    {
+        "ticker": "AEG",
+        "exchange": "JSE",
+        "price": "R 7.48",
+        "change": "+12.00",
+        "change_percent": "1.63",
+        "last_trade_time": "Feb 17, 9:23AM GMT+2"
+    },
+    {
+        "ticker": "TEX",
+        "exchange": "JSE",
+        "price": "R 8.11",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:16AM GMT+2"
+    },
+    {
+        "ticker": "TWR",
+        "exchange": "JSE",
+        "price": "R 8.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:10AM GMT+2"
+    },
+    {
+        "ticker": "SFNP",
+        "exchange": "JSE",
+        "price": "R 75.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:11PM GMT+2"
+    },
+    {
+        "ticker": "ACS",
+        "exchange": "JSE",
+        "price": "R 7.10",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:56PM GMT+2"
+    },
+    {
+        "ticker": "ALP",
+        "exchange": "JSE",
+        "price": "R 18.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 2:33PM GMT+2"
+    },
+    {
+        "ticker": "HSP",
+        "exchange": "JSE",
+        "price": "R 61.00",
+        "change": "-4.00",
+        "change_percent": "-0.07",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "ILU",
+        "exchange": "JSE",
+        "price": "R 10.90",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "EMN",
+        "exchange": "JSE",
+        "price": "R 5.85",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "GRF",
+        "exchange": "JSE",
+        "price": "R 23.85",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:17AM GMT+2"
+    },
+    {
+        "ticker": "MDI",
+        "exchange": "JSE",
+        "price": "R 18.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:12AM GMT+2"
+    },
+    {
+        "ticker": "MIX",
+        "exchange": "JSE",
+        "price": "R 3.80",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:05PM GMT+2"
+    },
+    {
+        "ticker": "HLM",
+        "exchange": "JSE",
+        "price": "R 7.19",
+        "change": "+6.00",
+        "change_percent": "0.84",
+        "last_trade_time": "Feb 17, 9:30AM GMT+2"
+    },
+    {
+        "ticker": "COM",
+        "exchange": "JSE",
+        "price": "R 5.64",
+        "change": "-21.00",
+        "change_percent": "-3.59",
+        "last_trade_time": "Feb 17, 9:03AM GMT+2"
+    },
+    {
+        "ticker": "SFN",
+        "exchange": "JSE",
+        "price": "R 74.90",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "CGR",
+        "exchange": "JSE",
+        "price": "R 17.65",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:39PM GMT+2"
+    },
+    {
+        "ticker": "SYG",
+        "exchange": "JSE",
+        "price": "R 16.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "ADI",
+        "exchange": "JSE",
+        "price": "R 14.10",
+        "change": "-7.00",
+        "change_percent": "-0.49",
+        "last_trade_time": "Feb 17, 9:38AM GMT+2"
+    },
+    {
+        "ticker": "MFL",
+        "exchange": "JSE",
+        "price": "R 5.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "HWN",
+        "exchange": "JSE",
+        "price": "R 31.90",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:04PM GMT+2"
+    },
+    {
+        "ticker": "MNK",
+        "exchange": "JSE",
+        "price": "R 16.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:53PM GMT+2"
+    },
+    {
+        "ticker": "AEE",
+        "exchange": "JSE",
+        "price": "R 4.40",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 9:04AM GMT+2"
+    },
+    {
+        "ticker": "FGL",
+        "exchange": "JSE",
+        "price": "R 2.56",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "MDP",
+        "exchange": "JSE",
+        "price": "R 18.10",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 4:17PM GMT+2"
+    },
+    {
+        "ticker": "ADR",
+        "exchange": "JSE",
+        "price": "R 17.30",
+        "change": "-5.00",
+        "change_percent": "-0.29",
+        "last_trade_time": "Feb 17, 9:37AM GMT+2"
+    },
+    {
+        "ticker": "GPL",
+        "exchange": "JSE",
+        "price": "R 3.55",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:55PM GMT+2"
+    },
+    {
+        "ticker": "PCT",
+        "exchange": "JSE",
+        "price": "R 0.98",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "LDO",
+        "exchange": "JSE",
+        "price": "R 6.80",
+        "change": "",
+        "change_percent": "",
+        "last_trade_time": "Jan 23, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "PHM",
+        "exchange": "JSE",
+        "price": "R 21.34",
+        "change": "+34.00",
+        "change_percent": "1.62",
+        "last_trade_time": "Feb 17, 9:29AM GMT+2"
+    },
+    {
+        "ticker": "SSS",
+        "exchange": "JSE",
+        "price": "R 11.40",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "GPA",
+        "exchange": "JSE",
+        "price": "R 9.86",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Jan 31, 2:38PM GMT+2"
+    },
+    {
+        "ticker": "WIL",
+        "exchange": "JSE",
+        "price": "R 7.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 9, 1:56PM GMT+2"
+    },
+    {
+        "ticker": "CMH",
+        "exchange": "JSE",
+        "price": "R 21.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "ARH",
+        "exchange": "JSE",
+        "price": "R 6.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "WEZ",
+        "exchange": "JSE",
+        "price": "R 0.90",
+        "change": "+1.00",
+        "change_percent": "1.12",
+        "last_trade_time": "Feb 17, 9:03AM GMT+2"
+    },
+    {
+        "ticker": "BEL",
+        "exchange": "JSE",
+        "price": "R 14.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:20PM GMT+2"
+    },
+    {
+        "ticker": "SBV",
+        "exchange": "JSE",
+        "price": "R 26.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:46PM GMT+2"
+    },
+    {
+        "ticker": "CUL",
+        "exchange": "JSE",
+        "price": "R 1.53",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 3:55PM GMT+2"
+    },
+    {
+        "ticker": "SAR",
+        "exchange": "JSE",
+        "price": "R 7.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:27AM GMT+2"
+    },
+    {
+        "ticker": "ARA",
+        "exchange": "JSE",
+        "price": "R 10.17",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:42AM GMT+2"
+    },
+    {
+        "ticker": "ACG",
+        "exchange": "JSE",
+        "price": "R 7.47",
+        "change": "+32.00",
+        "change_percent": "4.48",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "DCT",
+        "exchange": "JSE",
+        "price": "R 0.00",
+        "change": "",
+        "change_percent": "",
+        "last_trade_time": ""
+    },
+    {
+        "ticker": "RACP",
+        "exchange": "JSE",
+        "price": "R 25.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "UPL",
+        "exchange": "JSE",
+        "price": "R 16.95",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 3:39PM GMT+2"
+    },
+    {
+        "ticker": "CTA",
+        "exchange": "JSE",
+        "price": "R 0.98",
+        "change": "+1.00",
+        "change_percent": "1.03",
+        "last_trade_time": "Feb 17, 9:36AM GMT+2"
+    },
+    {
+        "ticker": "SCP",
+        "exchange": "JSE",
+        "price": "R 1.27",
+        "change": "-2.00",
+        "change_percent": "-1.55",
+        "last_trade_time": "Feb 17, 9:43AM GMT+2"
+    },
+    {
+        "ticker": "CZA",
+        "exchange": "JSE",
+        "price": "R 0.54",
+        "change": "+2.00",
+        "change_percent": "3.85",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "SVN",
+        "exchange": "JSE",
+        "price": "R 30.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 10, 4:48PM GMT+2"
+    },
+    {
+        "ticker": "OAS",
+        "exchange": "JSE",
+        "price": "R 0.00",
+        "change": "",
+        "change_percent": "",
+        "last_trade_time": ""
+    },
+    {
+        "ticker": "MMG",
+        "exchange": "JSE",
+        "price": "R 10.25",
+        "change": "-35.00",
+        "change_percent": "-3.30",
+        "last_trade_time": "Feb 17, 9:38AM GMT+2"
+    },
+    {
+        "ticker": "YRK",
+        "exchange": "JSE",
+        "price": "R 3.35",
+        "change": "-3.00",
+        "change_percent": "-0.89",
+        "last_trade_time": "Feb 17, 9:44AM GMT+2"
+    },
+    {
+        "ticker": "GPB",
+        "exchange": "JSE",
+        "price": "R 7.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 11:34AM GMT+2"
+    },
+    {
+        "ticker": "ING",
+        "exchange": "JSE",
+        "price": "R 0.95",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:27AM GMT+2"
+    },
+    {
+        "ticker": "RSG",
+        "exchange": "JSE",
+        "price": "R 0.80",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 13, 9:14AM GMT+2"
+    },
+    {
+        "ticker": "TPC",
+        "exchange": "JSE",
+        "price": "R 29.99",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:28PM GMT+2"
+    },
+    {
+        "ticker": "CKS",
+        "exchange": "JSE",
+        "price": "R 64.00",
+        "change": "+50.00",
+        "change_percent": "0.79",
+        "last_trade_time": "Feb 17, 9:00AM GMT+2"
+    },
+    {
+        "ticker": "APK",
+        "exchange": "JSE",
+        "price": "R 7.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 3:02PM GMT+2"
+    },
+    {
+        "ticker": "IHL",
+        "exchange": "JSE",
+        "price": "R 18.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Jan 31, 12:15PM GMT+2"
+    },
+    {
+        "ticker": "ENX",
+        "exchange": "JSE",
+        "price": "R 19.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:24AM GMT+2"
+    },
+    {
+        "ticker": "REN",
+        "exchange": "JSE",
+        "price": "R 12.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 9:00AM GMT+2"
+    },
+    {
+        "ticker": "TOR",
+        "exchange": "JSE",
+        "price": "R 1.70",
+        "change": "+5.00",
+        "change_percent": "3.03",
+        "last_trade_time": "Feb 17, 9:39AM GMT+2"
+    },
+    {
+        "ticker": "RLF",
+        "exchange": "JSE",
+        "price": "R 5.20",
+        "change": "-7.00",
+        "change_percent": "-1.33",
+        "last_trade_time": "Feb 17, 9:03AM GMT+2"
+    },
+    {
+        "ticker": "SCL",
+        "exchange": "JSE",
+        "price": "R 0.27",
+        "change": "-1.00",
+        "change_percent": "-3.57",
+        "last_trade_time": "Feb 17, 9:19AM GMT+2"
+    },
+    {
+        "ticker": "CND",
+        "exchange": "JSE",
+        "price": "R 2.60",
+        "change": "+13.00",
+        "change_percent": "5.26",
+        "last_trade_time": "Feb 17, 9:36AM GMT+2"
+    },
+    {
+        "ticker": "SIPBEE",
+        "exchange": "JSE",
+        "price": "R 42.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 10:38AM GMT+2"
+    },
+    {
+        "ticker": "OLG",
+        "exchange": "JSE",
+        "price": "R 3.20",
+        "change": "-15.00",
+        "change_percent": "-4.48",
+        "last_trade_time": "Feb 17, 9:03AM GMT+2"
+    },
+    {
+        "ticker": "PET",
+        "exchange": "JSE",
+        "price": "R 1.46",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:54PM GMT+2"
+    },
+    {
+        "ticker": "SSK",
+        "exchange": "JSE",
+        "price": "R 4.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:33PM GMT+2"
+    },
+    {
+        "ticker": "DNB",
+        "exchange": "JSE",
+        "price": "R 1.75",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:26PM GMT+2"
+    },
+    {
+        "ticker": "QFH",
+        "exchange": "JSE",
+        "price": "R 3.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:31PM GMT+2"
+    },
+    {
+        "ticker": "HUG",
+        "exchange": "JSE",
+        "price": "R 8.70",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:19PM GMT+2"
+    },
+    {
+        "ticker": "NVE",
+        "exchange": "JSE",
+        "price": "R 2.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:45PM GMT+2"
+    },
+    {
+        "ticker": "JBL",
+        "exchange": "JSE",
+        "price": "R 0.74",
+        "change": "+4.00",
+        "change_percent": "5.71",
+        "last_trade_time": "Feb 17, 9:07AM GMT+2"
+    },
+    {
+        "ticker": "TAS",
+        "exchange": "JSE",
+        "price": "R 1.81",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "BCF",
+        "exchange": "JSE",
+        "price": "R 7.95",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:18AM GMT+2"
+    },
+    {
+        "ticker": "ANS",
+        "exchange": "JSE",
+        "price": "R 1.42",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:39PM GMT+2"
+    },
+    {
+        "ticker": "NWL",
+        "exchange": "JSE",
+        "price": "R 32.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 15, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "NRL",
+        "exchange": "JSE",
+        "price": "R 6.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:22PM GMT+2"
+    },
+    {
+        "ticker": "ELR",
+        "exchange": "JSE",
+        "price": "R 22.99",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:33PM GMT+2"
+    },
+    {
+        "ticker": "SOV",
+        "exchange": "JSE",
+        "price": "R 8.25",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:16PM GMT+2"
+    },
+    {
+        "ticker": "AME",
+        "exchange": "JSE",
+        "price": "R 70.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 13, 9:00AM GMT+2"
+    },
+    {
+        "ticker": "TMT",
+        "exchange": "JSE",
+        "price": "R 2.79",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 12:50PM GMT+2"
+    },
+    {
+        "ticker": "HUL",
+        "exchange": "JSE",
+        "price": "R 11.80",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 7, 1:45PM GMT+2"
+    },
+    {
+        "ticker": "CSG",
+        "exchange": "JSE",
+        "price": "R 1.35",
+        "change": "+1.00",
+        "change_percent": "0.75",
+        "last_trade_time": "Feb 17, 9:35AM GMT+2"
+    },
+    {
+        "ticker": "TSX",
+        "exchange": "JSE",
+        "price": "R 5.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:16PM GMT+2"
+    },
+    {
+        "ticker": "MMP",
+        "exchange": "JSE",
+        "price": "R 15.52",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:30AM GMT+2"
+    },
+    {
+        "ticker": "IWE",
+        "exchange": "JSE",
+        "price": "R 1.23",
+        "change": "+2.00",
+        "change_percent": "1.65",
+        "last_trade_time": "Feb 17, 9:00AM GMT+2"
+    },
+    {
+        "ticker": "SEP",
+        "exchange": "JSE",
+        "price": "R 3.15",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:54PM GMT+2"
+    },
+    {
+        "ticker": "SNV",
+        "exchange": "JSE",
+        "price": "R 3.38",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:36PM GMT+2"
+    },
+    {
+        "ticker": "WKF",
+        "exchange": "JSE",
+        "price": "R 2.30",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 9:13AM GMT+2"
+    },
+    {
+        "ticker": "WSL",
+        "exchange": "JSE",
+        "price": "R 2.46",
+        "change": "+1.00",
+        "change_percent": "0.41",
+        "last_trade_time": "Feb 17, 9:36AM GMT+2"
+    },
+    {
+        "ticker": "TPF",
+        "exchange": "JSE",
+        "price": "R 8.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 3:41PM GMT+2"
+    },
+    {
+        "ticker": "VLE",
+        "exchange": "JSE",
+        "price": "R 3.25",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 12:24PM GMT+2"
+    },
+    {
+        "ticker": "PPE",
+        "exchange": "JSE",
+        "price": "R 0.55",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 14, 3:22PM GMT+2"
+    },
+    {
+        "ticker": "GAI",
+        "exchange": "JSE",
+        "price": "R 8.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:35PM GMT+2"
+    },
+    {
+        "ticker": "KEH",
+        "exchange": "JSE",
+        "price": "R 1.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:03AM GMT+2"
+    },
+    {
+        "ticker": "EFG",
+        "exchange": "JSE",
+        "price": "R 5.01",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 1:57PM GMT+2"
+    },
+    {
+        "ticker": "DAW",
+        "exchange": "JSE",
+        "price": "R 2.25",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "ART",
+        "exchange": "JSE",
+        "price": "R 4.85",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:43PM GMT+2"
+    },
+    {
+        "ticker": "KBO",
+        "exchange": "JSE",
+        "price": "R 1.19",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 11:16AM GMT+2"
+    },
+    {
+        "ticker": "ATL",
+        "exchange": "JSE",
+        "price": "R 0.78",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:36PM GMT+2"
+    },
+    {
+        "ticker": "MST",
+        "exchange": "JSE",
+        "price": "R 4.70",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 10:33AM GMT+2"
+    },
+    {
+        "ticker": "EPS",
+        "exchange": "JSE",
+        "price": "R 4.20",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:48PM GMT+2"
+    },
+    {
+        "ticker": "ALH",
+        "exchange": "JSE",
+        "price": "R 2.10",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 5:00PM GMT+2"
+    },
+    {
+        "ticker": "BSR",
+        "exchange": "JSE",
+        "price": "R 2.10",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 4:45PM GMT+2"
+    },
+    {
+        "ticker": "ORE",
+        "exchange": "JSE",
+        "price": "R 0.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 17, 9:11AM GMT+2"
+    },
+    {
+        "ticker": "AVL",
+        "exchange": "JSE",
+        "price": "R 1.40",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:39PM GMT+2"
+    },
+    {
+        "ticker": "ISB",
+        "exchange": "JSE",
+        "price": "R 1.03",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 10:52AM GMT+2"
+    },
+    {
+        "ticker": "LNF",
+        "exchange": "JSE",
+        "price": "R 9.00",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Dec 15, 11:52AM GMT+2"
+    },
+    {
+        "ticker": "BSS",
+        "exchange": "JSE",
+        "price": "R 0.38",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 3:46PM GMT+2"
+    },
+    {
+        "ticker": "PPR",
+        "exchange": "JSE",
+        "price": "R 5.60",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 16, 2:36PM GMT+2"
+    },
+    {
+        "ticker": "RTN",
+        "exchange": "JSE",
+        "price": "R 12.50",
+        "change": "0.00",
+        "change_percent": "0.00",
+        "last_trade_time": "Feb 3, 12:46PM GMT+2"
+    }
+]
