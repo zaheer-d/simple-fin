@@ -14,7 +14,8 @@
     "normalize-css": "^2.3.1",
     "skeleton-css": "^2.0.4",
     "vue": "^2.2.1",
-    "vue-router": "^2.3.0"
+    "vue-router": "^2.3.0",
+    "vue-socket.io": "^2.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",

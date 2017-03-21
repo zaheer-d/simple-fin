@@ -1,0 +1,3611 @@
+[{
+    "ticker": "RLO",
+    "exchange": "JSE",
+    "price": "74.23",
+    "change": "-17.00",
+    "change_percent": "-0.23",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Reunert Ltd",
+    "id": 101
+  },
+  {
+    "ticker": "ATT",
+    "exchange": "JSE",
+    "price": "17.38",
+    "change": "-20.00",
+    "change_percent": "-1.14",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Attacq Ltd",
+    "id": 102
+  },
+  {
+    "ticker": "RCL",
+    "exchange": "JSE",
+    "price": "16.00",
+    "change": "-105.00",
+    "change_percent": "-6.16",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "RCL Foods Ltd",
+    "id": 103
+  },
+  {
+    "ticker": "SPG",
+    "exchange": "JSE",
+    "price": "37.51",
+    "change": "-71.00",
+    "change_percent": "-1.86",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Super Group Ltd",
+    "id": 104
+  },
+  {
+    "ticker": "BLU",
+    "exchange": "JSE",
+    "price": "17.90",
+    "change": "-15.00",
+    "change_percent": "-0.83",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Blue Label Telecoms Ltd",
+    "id": 105
+  },
+  {
+    "ticker": "OMN",
+    "exchange": "JSE",
+    "price": "165.66",
+    "change": "-434.00",
+    "change_percent": "-2.55",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Omnia Holdings Ltd",
+    "id": 106
+  },
+  {
+    "ticker": "DTC",
+    "exchange": "JSE",
+    "price": "53.62",
+    "change": "-37.00",
+    "change_percent": "-0.69",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Datatec Ltd",
+    "id": 107
+  },
+  {
+    "ticker": "HCI",
+    "exchange": "JSE",
+    "price": "143.00",
+    "change": "-21.00",
+    "change_percent": "-0.15",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Hosken Consolidated Investments Ltd",
+    "id": 108
+  },
+  {
+    "ticker": "APKP",
+    "exchange": "JSE",
+    "price": "98.50",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Astrapak Ltd",
+    "id": 109
+  },
+  {
+    "ticker": "NPK",
+    "exchange": "JSE",
+    "price": "16.62",
+    "change": "+77.00",
+    "change_percent": "4.86",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Nampak Ltd",
+    "id": 110
+  },
+  {
+    "ticker": "AFE",
+    "exchange": "JSE",
+    "price": "113.96",
+    "change": "-104.00",
+    "change_percent": "-0.90",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "AECI Ltd",
+    "id": 111
+  },
+  {
+    "ticker": "ZED",
+    "exchange": "JSE",
+    "price": "7.96",
+    "change": "-2.00",
+    "change_percent": "-0.25",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Zeder Investments Ltd",
+    "id": 112
+  },
+  {
+    "ticker": "IPF",
+    "exchange": "JSE",
+    "price": "15.95",
+    "change": "+20.00",
+    "change_percent": "1.27",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Investec Property Fund Ltd",
+    "id": 113
+  },
+  {
+    "ticker": "GND",
+    "exchange": "JSE",
+    "price": "14.65",
+    "change": "+15.00",
+    "change_percent": "1.03",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Grindrod Ltd",
+    "id": 114
+  },
+  {
+    "ticker": "PPC",
+    "exchange": "JSE",
+    "price": "6.95",
+    "change": "+20.00",
+    "change_percent": "2.96",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "PPC Ltd",
+    "id": 115
+  },
+  {
+    "ticker": "KST",
+    "exchange": "JSE",
+    "price": "7.69",
+    "change": "+16.00",
+    "change_percent": "2.12",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "PSG Konsult Ltd",
+    "id": 116
+  },
+  {
+    "ticker": "ADH",
+    "exchange": "JSE",
+    "price": "20.00",
+    "change": "-15.00",
+    "change_percent": "-0.74",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Advtech Ltd",
+    "id": 117
+  },
+  {
+    "ticker": "AFH",
+    "exchange": "JSE",
+    "price": "6.38",
+    "change": "-16.00",
+    "change_percent": "-2.45",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Alexander Forbes Group Holdings Ltd",
+    "id": 118
+  },
+  {
+    "ticker": "AWA",
+    "exchange": "JSE",
+    "price": "9.20",
+    "change": "+13.00",
+    "change_percent": "1.43",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Arrowhead Properties Ltd",
+    "id": 119
+  },
+  {
+    "ticker": "CPIP",
+    "exchange": "JSE",
+    "price": "89.90",
+    "change": "+58.00",
+    "change_percent": "0.65",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Capitec Bank Holdings Ltd",
+    "id": 120
+  },
+  {
+    "ticker": "AIP",
+    "exchange": "JSE",
+    "price": "62.85",
+    "change": "-43.00",
+    "change_percent": "-0.68",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Adcock Ingram Holdings Ltd",
+    "id": 121
+  },
+  {
+    "ticker": "NT1",
+    "exchange": "JSE",
+    "price": "169.00",
+    "change": "+326.00",
+    "change_percent": "1.97",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Net 1 UEPS Technologies Inc",
+    "id": 122
+  },
+  {
+    "ticker": "SUI",
+    "exchange": "JSE",
+    "price": "75.50",
+    "change": "+293.00",
+    "change_percent": "4.04",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sun International Ltd",
+    "id": 123
+  },
+  {
+    "ticker": "TCP",
+    "exchange": "JSE",
+    "price": "14.49",
+    "change": "+23.00",
+    "change_percent": "1.61",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Transaction Capital Ltd",
+    "id": 124
+  },
+  {
+    "ticker": "CVH",
+    "exchange": "JSE",
+    "price": "9.06",
+    "change": "+11.00",
+    "change_percent": "1.23",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Capevin Holdings Ltd",
+    "id": 125
+  },
+  {
+    "ticker": "CSB",
+    "exchange": "JSE",
+    "price": "378.00",
+    "change": "-44.00",
+    "change_percent": "-0.12",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Cashbuild Ltd",
+    "id": 126
+  },
+  {
+    "ticker": "RBP",
+    "exchange": "JSE",
+    "price": "33.50",
+    "change": "+50.00",
+    "change_percent": "1.52",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Royal Bafokeng Platinum Ltd",
+    "id": 127
+  },
+  {
+    "ticker": "WBO",
+    "exchange": "JSE",
+    "price": "157.29",
+    "change": "-251.00",
+    "change_percent": "-1.57",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Wilson Bayly Holmes-Ovcon Ltd",
+    "id": 128
+  },
+  {
+    "ticker": "MSP",
+    "exchange": "JSE",
+    "price": "22.00",
+    "change": "+48.00",
+    "change_percent": "2.23",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "MAS Real Estate Inc",
+    "id": 129
+  },
+  {
+    "ticker": "GRP",
+    "exchange": "JSE",
+    "price": "1.54",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Greenbay Properties Ltd",
+    "id": 130
+  },
+  {
+    "ticker": "EMI",
+    "exchange": "JSE",
+    "price": "14.42",
+    "change": "-23.00",
+    "change_percent": "-1.57",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Emira Property Fund Ltd",
+    "id": 131
+  },
+  {
+    "ticker": "SRE",
+    "exchange": "JSE",
+    "price": "8.06",
+    "change": "+6.00",
+    "change_percent": "0.75",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sirius Real Estate Ltd",
+    "id": 132
+  },
+  {
+    "ticker": "IVT",
+    "exchange": "JSE",
+    "price": "60.01",
+    "change": "-149.00",
+    "change_percent": "-2.42",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Invicta Holdings Ltd",
+    "id": 133
+  },
+  {
+    "ticker": "TRE",
+    "exchange": "JSE",
+    "price": "40.70",
+    "change": "-4.00",
+    "change_percent": "-0.10",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Trencor Ltd",
+    "id": 134
+  },
+  {
+    "ticker": "THA",
+    "exchange": "JSE",
+    "price": "23.10",
+    "change": "+147.00",
+    "change_percent": "6.80",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Tharisa PLC",
+    "id": 135
+  },
+  {
+    "ticker": "CRP",
+    "exchange": "JSE",
+    "price": "9.10",
+    "change": "-3.00",
+    "change_percent": "-0.33",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Capital & Regional PLC",
+    "id": 136
+  },
+  {
+    "ticker": "ASC",
+    "exchange": "JSE",
+    "price": "23.72",
+    "change": "+9.00",
+    "change_percent": "0.38",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Ascendis Health Ltd",
+    "id": 137
+  },
+  {
+    "ticker": "REB",
+    "exchange": "JSE",
+    "price": "12.90",
+    "change": "-20.00",
+    "change_percent": "-1.53",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Rebosis Property Fund Ltd",
+    "id": 138
+  },
+  {
+    "ticker": "CLH",
+    "exchange": "JSE",
+    "price": "161.09",
+    "change": "-191.00",
+    "change_percent": "-1.17",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "City Lodge Hotels Ltd",
+    "id": 139
+  },
+  {
+    "ticker": "LON",
+    "exchange": "JSE",
+    "price": "15.20",
+    "change": "-16.00",
+    "change_percent": "-1.04",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Lonmin PLC",
+    "id": 140
+  },
+  {
+    "ticker": "RFG",
+    "exchange": "JSE",
+    "price": "24.32",
+    "change": "-7.00",
+    "change_percent": "-0.29",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Rhodes Food Group Holdings Ltd",
+    "id": 141
+  },
+  {
+    "ticker": "PGR",
+    "exchange": "JSE",
+    "price": "29.08",
+    "change": "-64.00",
+    "change_percent": "-2.15",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Peregrine Holdings Ltd",
+    "id": 142
+  },
+  {
+    "ticker": "AFX",
+    "exchange": "JSE",
+    "price": "19.87",
+    "change": "+14.00",
+    "change_percent": "0.71",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "African Oxygen Ltd",
+    "id": 143
+  },
+  {
+    "ticker": "ARL",
+    "exchange": "JSE",
+    "price": "157.30",
+    "change": "-344.00",
+    "change_percent": "-2.14",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Astral Foods Ltd",
+    "id": 144
+  },
+  {
+    "ticker": "OCT",
+    "exchange": "JSE",
+    "price": "24.80",
+    "change": "-26.00",
+    "change_percent": "-1.04",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Octodec Investments Ltd",
+    "id": 145
+  },
+  {
+    "ticker": "DLT",
+    "exchange": "JSE",
+    "price": "9.15",
+    "change": "+1.00",
+    "change_percent": "0.11",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Delta Property Fund Ltd",
+    "id": 146
+  },
+  {
+    "ticker": "ERN",
+    "exchange": "JSE",
+    "price": "27.05",
+    "change": "+5.00",
+    "change_percent": "0.19",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Erin Energy Corp",
+    "id": 147
+  },
+  {
+    "ticker": "APF",
+    "exchange": "JSE",
+    "price": "7.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Accelerate Property Fund Ltd",
+    "id": 148
+  },
+  {
+    "ticker": "PAN",
+    "exchange": "JSE",
+    "price": "2.43",
+    "change": "+1.00",
+    "change_percent": "0.41",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Pan African Resources PLC",
+    "id": 149
+  },
+  {
+    "ticker": "CLI",
+    "exchange": "JSE",
+    "price": "17.50",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Clientele Ltd",
+    "id": 150
+  },
+  {
+    "ticker": "CAT",
+    "exchange": "JSE",
+    "price": "13.50",
+    "change": "+75.00",
+    "change_percent": "5.88",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Caxton and CTP Publishers and Printers Ltd",
+    "id": 151
+  },
+  {
+    "ticker": "NBKP",
+    "exchange": "JSE",
+    "price": "9.20",
+    "change": "-14.00",
+    "change_percent": "-1.50",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Nedbank Ltd",
+    "id": 152
+  },
+  {
+    "ticker": "MPT",
+    "exchange": "JSE",
+    "price": "30.39",
+    "change": "-49.00",
+    "change_percent": "-1.59",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Mpact Ltd",
+    "id": 153
+  },
+  {
+    "ticker": "STP",
+    "exchange": "JSE",
+    "price": "16.30",
+    "change": "-20.00",
+    "change_percent": "-1.21",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Stenprop Ltd",
+    "id": 154
+  },
+  {
+    "ticker": "DIB",
+    "exchange": "JSE",
+    "price": "12.25",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Dipula Income Fund Ltd",
+    "id": 155
+  },
+  {
+    "ticker": "MRF",
+    "exchange": "JSE",
+    "price": "1.80",
+    "change": "+3.00",
+    "change_percent": "1.69",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Merafe Resources Ltd",
+    "id": 156
+  },
+  {
+    "ticker": "AFT",
+    "exchange": "JSE",
+    "price": "30.00",
+    "change": "+1.00",
+    "change_percent": "0.03",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Afrimat Ltd",
+    "id": 157
+  },
+  {
+    "ticker": "MUR",
+    "exchange": "JSE",
+    "price": "16.75",
+    "change": "-20.00",
+    "change_percent": "-1.18",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Murray And Roberts Holdings Ltd",
+    "id": 158
+  },
+  {
+    "ticker": "EQU",
+    "exchange": "JSE",
+    "price": "17.65",
+    "change": "-35.00",
+    "change_percent": "-1.94",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Equites Property Fund Ltd",
+    "id": 159
+  },
+  {
+    "ticker": "IAP",
+    "exchange": "JSE",
+    "price": "0.00",
+    "change": "",
+    "change_percent": "",
+    "last_trade_time": "",
+    "name": "Investec Australia Property Fund",
+    "id": 160
+  },
+  {
+    "ticker": "MTA",
+    "exchange": "JSE",
+    "price": "24.50",
+    "change": "+35.00",
+    "change_percent": "1.45",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Metair Investments Ltd",
+    "id": 161
+  },
+  {
+    "ticker": "NIV",
+    "exchange": "JSE",
+    "price": "39.99",
+    "change": "-13.00",
+    "change_percent": "-0.32",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Niveus Investments Ltd",
+    "id": 162
+  },
+  {
+    "ticker": "CHP",
+    "exchange": "JSE",
+    "price": "3.45",
+    "change": "+6.00",
+    "change_percent": "1.77",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Choppies Enterprise Ltd",
+    "id": 163
+  },
+  {
+    "ticker": "DIA",
+    "exchange": "JSE",
+    "price": "10.55",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Dipula Income Fund Ltd",
+    "id": 164
+  },
+  {
+    "ticker": "RBX",
+    "exchange": "JSE",
+    "price": "26.24",
+    "change": "+34.00",
+    "change_percent": "1.31",
+    "last_trade_time": "Mar 20, 5:09PM GMT+2",
+    "name": "Raubex Group Ltd",
+    "id": 165
+  },
+  {
+    "ticker": "HDC",
+    "exchange": "JSE",
+    "price": "147.00",
+    "change": "+23.00",
+    "change_percent": "0.16",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Hudaco Industries Ltd",
+    "id": 166
+  },
+  {
+    "ticker": "EMH",
+    "exchange": "JSE",
+    "price": "8.34",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "E Media Holdings Ltd",
+    "id": 167
+  },
+  {
+    "ticker": "TDH",
+    "exchange": "JSE",
+    "price": "19.07",
+    "change": "-92.00",
+    "change_percent": "-4.60",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Tradehold Ltd",
+    "id": 168
+  },
+  {
+    "ticker": "HPB",
+    "exchange": "JSE",
+    "price": "14.19",
+    "change": "+4.00",
+    "change_percent": "0.28",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Hospitality Property Fund Ltd",
+    "id": 169
+  },
+  {
+    "ticker": "LEW",
+    "exchange": "JSE",
+    "price": "44.95",
+    "change": "-3.00",
+    "change_percent": "-0.07",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Lewis Group Ltd",
+    "id": 170
+  },
+  {
+    "ticker": "CIL",
+    "exchange": "JSE",
+    "price": "22.01",
+    "change": "-48.00",
+    "change_percent": "-2.13",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Consolidated Infrastructure Group Ltd",
+    "id": 171
+  },
+  {
+    "ticker": "HIL",
+    "exchange": "JSE",
+    "price": "35.40",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "HomeChoice International PLC",
+    "id": 172
+  },
+  {
+    "ticker": "AEL",
+    "exchange": "JSE",
+    "price": "11.10",
+    "change": "+2.00",
+    "change_percent": "0.18",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Allied Electronics Corp Ltd Altron",
+    "id": 173
+  },
+  {
+    "ticker": "ACT",
+    "exchange": "JSE",
+    "price": "6.50",
+    "change": "-1.00",
+    "change_percent": "-0.15",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Afrocentric Investment Corp Ltd",
+    "id": 174
+  },
+  {
+    "ticker": "DRD",
+    "exchange": "JSE",
+    "price": "6.43",
+    "change": "-24.00",
+    "change_percent": "-3.60",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "DRDGold Ltd",
+    "id": 175
+  },
+  {
+    "ticker": "SUR",
+    "exchange": "JSE",
+    "price": "34.40",
+    "change": "-40.00",
+    "change_percent": "-1.15",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Spur Corp Ltd",
+    "id": 176
+  },
+  {
+    "ticker": "PGL",
+    "exchange": "JSE",
+    "price": "4.50",
+    "change": "-5.00",
+    "change_percent": "-1.10",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Pallinghurst Resources Ltd",
+    "id": 177
+  },
+  {
+    "ticker": "BRN",
+    "exchange": "JSE",
+    "price": "15.75",
+    "change": "+25.00",
+    "change_percent": "1.61",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Brimstone Investment Corp Ltd",
+    "id": 178
+  },
+  {
+    "ticker": "CLR",
+    "exchange": "JSE",
+    "price": "19.90",
+    "change": "+2.00",
+    "change_percent": "0.10",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Clover Industries Ltd",
+    "id": 179
+  },
+  {
+    "ticker": "AEL",
+    "exchange": "JSE",
+    "price": "11.10",
+    "change": "+2.00",
+    "change_percent": "0.18",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Allied Electronics Corp Ltd Altron",
+    "id": 173
+  },
+  {
+    "ticker": "CTK",
+    "exchange": "JSE",
+    "price": "10.85",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Cartrack Holdings Ltd",
+    "id": 181
+  },
+  {
+    "ticker": "OAO",
+    "exchange": "JSE",
+    "price": "0.27",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Oando PLC",
+    "id": 183
+  },
+  {
+    "ticker": "BRT",
+    "exchange": "JSE",
+    "price": "15.84",
+    "change": "+134.00",
+    "change_percent": "9.24",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Brimstone Investment Corp Ltd",
+    "id": 184
+  },
+  {
+    "ticker": "AIA",
+    "exchange": "JSE",
+    "price": "4.70",
+    "change": "+3.00",
+    "change_percent": "0.64",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Ascension Properties Ltd",
+    "id": 185
+  },
+  {
+    "ticker": "TTO",
+    "exchange": "JSE",
+    "price": "4.00",
+    "change": "-2.00",
+    "change_percent": "-0.50",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Trustco Group Holdings Ltd",
+    "id": 186
+  },
+  {
+    "ticker": "NVS",
+    "exchange": "JSE",
+    "price": "9.00",
+    "change": "+248.00",
+    "change_percent": "38.04",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Novus Holdings Ltd",
+    "id": 187
+  },
+  {
+    "ticker": "NFP",
+    "exchange": "JSE",
+    "price": "22.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "New Frontier Properties Ltd",
+    "id": 188
+  },
+  {
+    "ticker": "AEG",
+    "exchange": "JSE",
+    "price": "7.04",
+    "change": "-34.00",
+    "change_percent": "-4.61",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Aveng Ltd",
+    "id": 189
+  },
+  {
+    "ticker": "TEX",
+    "exchange": "JSE",
+    "price": "8.70",
+    "change": "+19.00",
+    "change_percent": "2.23",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Texton Property Fund Ltd",
+    "id": 190
+  },
+  {
+    "ticker": "TWR",
+    "exchange": "JSE",
+    "price": "8.50",
+    "change": "+10.00",
+    "change_percent": "1.19",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Tower Property Fund Ltd",
+    "id": 191
+  },
+  {
+    "ticker": "SFNP",
+    "exchange": "JSE",
+    "price": "77.12",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sasfin Holdings Ltd",
+    "id": 192
+  },
+  {
+    "ticker": "ACS",
+    "exchange": "JSE",
+    "price": "7.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Acsion Ltd",
+    "id": 193
+  },
+  {
+    "ticker": "ALP",
+    "exchange": "JSE",
+    "price": "16.50",
+    "change": "-35.00",
+    "change_percent": "-2.08",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Atlantic Leaf Properties Ltd",
+    "id": 194
+  },
+  {
+    "ticker": "HSP",
+    "exchange": "JSE",
+    "price": "62.47",
+    "change": "+147.00",
+    "change_percent": "2.41",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Holdsport Ltd",
+    "id": 195
+  },
+  {
+    "ticker": "ILU",
+    "exchange": "JSE",
+    "price": "11.35",
+    "change": "+10.00",
+    "change_percent": "0.89",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Indluplace Properties Ltd",
+    "id": 196
+  },
+  {
+    "ticker": "EMN",
+    "exchange": "JSE",
+    "price": "5.90",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "E Media Holdings Ltd",
+    "id": 197
+  },
+  {
+    "ticker": "GRF",
+    "exchange": "JSE",
+    "price": "23.42",
+    "change": "-69.00",
+    "change_percent": "-2.86",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Group Five Ltd",
+    "id": 198
+  },
+  {
+    "ticker": "MDI",
+    "exchange": "JSE",
+    "price": "18.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Master Drilling Group Ltd",
+    "id": 199
+  },
+  {
+    "ticker": "MIX",
+    "exchange": "JSE",
+    "price": "3.45",
+    "change": "-5.00",
+    "change_percent": "-1.43",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "MiX Telematics Ltd",
+    "id": 200
+  },
+  {
+    "ticker": "ANH",
+    "exchange": "JSE",
+    "price": "1419.01",
+    "change": "-999.00",
+    "change_percent": "-0.70",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Anheuser-Busch InBev SA/NV",
+    "id": 1
+  },
+  {
+    "ticker": "BTI",
+    "exchange": "JSE",
+    "price": "811.78",
+    "change": "-243.00",
+    "change_percent": "-0.30",
+    "last_trade_time": "Mar 20, 5:08PM GMT+2",
+    "name": "British American Tobacco PLC",
+    "id": 2
+  },
+  {
+    "ticker": "BIL",
+    "exchange": "JSE",
+    "price": "208.27",
+    "change": "-122.00",
+    "change_percent": "-0.58",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "BHP Billiton PLC",
+    "id": 3
+  },
+  {
+    "ticker": "NPN",
+    "exchange": "JSE",
+    "price": "2291.20",
+    "change": "+7,335.00",
+    "change_percent": "3.31",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Naspers Ltd",
+    "id": 4
+  },
+  {
+    "ticker": "GLN",
+    "exchange": "JSE",
+    "price": "54.15",
+    "change": "-32.00",
+    "change_percent": "-0.59",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Glencore PLC",
+    "id": 5
+  },
+  {
+    "ticker": "CFR",
+    "exchange": "JSE",
+    "price": "98.60",
+    "change": "-94.00",
+    "change_percent": "-0.94",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Cie Financiere Richemont SA",
+    "id": 6
+  },
+  {
+    "ticker": "ABSP",
+    "exchange": "JSE",
+    "price": "785.00",
+    "change": "-111.00",
+    "change_percent": "-0.14",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Absa Bank Ltd",
+    "id": 7
+  },
+  {
+    "ticker": "AGL",
+    "exchange": "JSE",
+    "price": "201.02",
+    "change": "-191.00",
+    "change_percent": "-0.94",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Anglo American PLC",
+    "id": 8
+  },
+  {
+    "ticker": "SNH",
+    "exchange": "JSE",
+    "price": "64.80",
+    "change": "-48.00",
+    "change_percent": "-0.74",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Steinhoff International Holdings NV",
+    "id": 9
+  },
+  {
+    "ticker": "FSR",
+    "exchange": "JSE",
+    "price": "53.02",
+    "change": "+1.00",
+    "change_percent": "0.02",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Firstrand Ltd",
+    "id": 10
+  },
+  {
+    "ticker": "SOL",
+    "exchange": "JSE",
+    "price": "363.73",
+    "change": "-479.00",
+    "change_percent": "-1.30",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sasol Ltd",
+    "id": 11
+  },
+  {
+    "ticker": "SBK",
+    "exchange": "JSE",
+    "price": "160.46",
+    "change": "+57.00",
+    "change_percent": "0.36",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Standard Bank Group Ltd",
+    "id": 12
+  },
+  {
+    "ticker": "VOD",
+    "exchange": "JSE",
+    "price": "155.00",
+    "change": "-2.00",
+    "change_percent": "-0.01",
+    "last_trade_time": "Mar 20, 5:09PM GMT+2",
+    "name": "Vodacom Group Ltd",
+    "id": 13
+  },
+  {
+    "ticker": "MTN",
+    "exchange": "JSE",
+    "price": "127.15",
+    "change": "-115.00",
+    "change_percent": "-0.90",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "MTN Group Ltd",
+    "id": 14
+  },
+  {
+    "ticker": "SOLBE1",
+    "exchange": "JSE",
+    "price": "305.05",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sasol Ltd",
+    "id": 15
+  },
+  {
+    "ticker": "REM",
+    "exchange": "JSE",
+    "price": "216.22",
+    "change": "-18.00",
+    "change_percent": "-0.08",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Remgro Ltd",
+    "id": 16
+  },
+  {
+    "ticker": "OML",
+    "exchange": "JSE",
+    "price": "35.25",
+    "change": "+26.00",
+    "change_percent": "0.74",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Old Mutual PLC",
+    "id": 17
+  },
+  {
+    "ticker": "SBPP",
+    "exchange": "JSE",
+    "price": "85.20",
+    "change": "-77.00",
+    "change_percent": "-0.90",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Standard Bank Group Ltd",
+    "id": 18
+  },
+  {
+    "ticker": "S32",
+    "exchange": "JSE",
+    "price": "27.15",
+    "change": "-63.00",
+    "change_percent": "-2.27",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "South32 Ltd",
+    "id": 19
+  },
+  {
+    "ticker": "MND",
+    "exchange": "JSE",
+    "price": "304.25",
+    "change": "+125.00",
+    "change_percent": "0.41",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Mondi Ltd",
+    "id": 20
+  },
+  {
+    "ticker": "APN",
+    "exchange": "JSE",
+    "price": "273.36",
+    "change": "+3.00",
+    "change_percent": "0.01",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Aspen Pharmacare Holdings Ltd",
+    "id": 21
+  },
+  {
+    "ticker": "BGA",
+    "exchange": "JSE",
+    "price": "155.09",
+    "change": "-112.00",
+    "change_percent": "-0.72",
+    "last_trade_time": "Mar 20, 5:06PM GMT+2",
+    "name": "Barclays Africa Group Ltd",
+    "id": 22
+  },
+  {
+    "ticker": "SLM",
+    "exchange": "JSE",
+    "price": "72.42",
+    "change": "+30.00",
+    "change_percent": "0.42",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sanlam Ltd",
+    "id": 23
+  },
+  {
+    "ticker": "NED",
+    "exchange": "JSE",
+    "price": "267.00",
+    "change": "+200.00",
+    "change_percent": "0.75",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Nedbank Group Ltd",
+    "id": 24
+  },
+  {
+    "ticker": "MNP",
+    "exchange": "JSE",
+    "price": "304.20",
+    "change": "+120.00",
+    "change_percent": "0.40",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Mondi PLC",
+    "id": 25
+  },
+  {
+    "ticker": "MEI",
+    "exchange": "JSE",
+    "price": "120.02",
+    "change": "-61.00",
+    "change_percent": "-0.51",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Mediclinic International PLC",
+    "id": 26
+  },
+  {
+    "ticker": "SHP",
+    "exchange": "JSE",
+    "price": "206.56",
+    "change": "+104.00",
+    "change_percent": "0.51",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Shoprite Holdings Ltd",
+    "id": 27
+  },
+  {
+    "ticker": "AMS",
+    "exchange": "JSE",
+    "price": "295.64",
+    "change": "-745.00",
+    "change_percent": "-2.46",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Anglo American Platinum Ltd",
+    "id": 28
+  },
+  {
+    "ticker": "RMH",
+    "exchange": "JSE",
+    "price": "65.95",
+    "change": "+28.00",
+    "change_percent": "0.43",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Rmb Holdings Ltd",
+    "id": 29
+  },
+  {
+    "ticker": "INL",
+    "exchange": "JSE",
+    "price": "95.57",
+    "change": "+2.00",
+    "change_percent": "0.02",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Investec Ltd",
+    "id": 30
+  },
+  {
+    "ticker": "CPI",
+    "exchange": "JSE",
+    "price": "805.00",
+    "change": "+885.00",
+    "change_percent": "1.11",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Capitec Bank Holdings Ltd",
+    "id": 31
+  },
+  {
+    "ticker": "BID",
+    "exchange": "JSE",
+    "price": "270.28",
+    "change": "+176.00",
+    "change_percent": "0.66",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Bid Corp Ltd",
+    "id": 32
+  },
+  {
+    "ticker": "CATP",
+    "exchange": "JSE",
+    "price": "190.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Caxton and CTP Publishers and Printers Ltd",
+    "id": 33
+  },
+  {
+    "ticker": "TBS",
+    "exchange": "JSE",
+    "price": "429.00",
+    "change": "+700.00",
+    "change_percent": "1.66",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Tiger Brands Ltd",
+    "id": 34
+  },
+  {
+    "ticker": "DSY",
+    "exchange": "JSE",
+    "price": "137.42",
+    "change": "+151.00",
+    "change_percent": "1.11",
+    "last_trade_time": "Mar 20, 5:06PM GMT+2",
+    "name": "Discovery Ltd",
+    "id": 35
+  },
+  {
+    "ticker": "HMN",
+    "exchange": "JSE",
+    "price": "91.96",
+    "change": "-7.00",
+    "change_percent": "-0.08",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Hammerson PLC",
+    "id": 36
+  },
+  {
+    "ticker": "ANG",
+    "exchange": "JSE",
+    "price": "138.32",
+    "change": "-63.00",
+    "change_percent": "-0.45",
+    "last_trade_time": "Mar 20, 5:08PM GMT+2",
+    "name": "Anglogold Ashanti Ltd",
+    "id": 37
+  },
+  {
+    "ticker": "FFB",
+    "exchange": "JSE",
+    "price": "34.49",
+    "change": "+3.00",
+    "change_percent": "0.09",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Fortress Income Fund Ltd",
+    "id": 38
+  },
+  {
+    "ticker": "GRT",
+    "exchange": "JSE",
+    "price": "27.56",
+    "change": "+16.00",
+    "change_percent": "0.58",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Growthpoint Properties Ltd",
+    "id": 39
+  },
+  {
+    "ticker": "WHL",
+    "exchange": "JSE",
+    "price": "73.75",
+    "change": "+69.00",
+    "change_percent": "0.94",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Woolworths Holdings Ltd",
+    "id": 40
+  },
+  {
+    "ticker": "KIO",
+    "exchange": "JSE",
+    "price": "212.72",
+    "change": "-330.00",
+    "change_percent": "-1.53",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Kumba Iron Ore Ltd",
+    "id": 41
+  },
+  {
+    "ticker": "INP",
+    "exchange": "JSE",
+    "price": "94.49",
+    "change": "-51.00",
+    "change_percent": "-0.54",
+    "last_trade_time": "Mar 20, 5:07PM GMT+2",
+    "name": "Investec PLC",
+    "id": 42
+  },
+  {
+    "ticker": "ITU",
+    "exchange": "JSE",
+    "price": "44.20",
+    "change": "-20.00",
+    "change_percent": "-0.45",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Intu Properties PLC",
+    "id": 43
+  },
+  {
+    "ticker": "RMI",
+    "exchange": "JSE",
+    "price": "43.30",
+    "change": "+1.00",
+    "change_percent": "0.02",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Rand Merchant Investment Holdings Ltd",
+    "id": 44
+  },
+  {
+    "ticker": "GNDP",
+    "exchange": "JSE",
+    "price": "77.50",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Grindrod Ltd",
+    "id": 45
+  },
+  {
+    "ticker": "REI",
+    "exchange": "JSE",
+    "price": "27.44",
+    "change": "-14.00",
+    "change_percent": "-0.51",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Reinet Investments SCA",
+    "id": 46
+  },
+  {
+    "ticker": "BVT",
+    "exchange": "JSE",
+    "price": "161.20",
+    "change": "+81.00",
+    "change_percent": "0.51",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Bidvest Group Ltd",
+    "id": 47
+  },
+  {
+    "ticker": "NEP",
+    "exchange": "JSE",
+    "price": "148.25",
+    "change": "+250.00",
+    "change_percent": "1.72",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "New Europe Property Investments PLC",
+    "id": 48
+  },
+  {
+    "ticker": "RDF",
+    "exchange": "JSE",
+    "price": "11.31",
+    "change": "-1.00",
+    "change_percent": "-0.09",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Redefine Properties Ltd",
+    "id": 49
+  },
+  {
+    "ticker": "RES",
+    "exchange": "JSE",
+    "price": "123.00",
+    "change": "+20.00",
+    "change_percent": "0.16",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Resilient REIT Ltd",
+    "id": 50
+  },
+  {
+    "ticker": "SAP",
+    "exchange": "JSE",
+    "price": "88.19",
+    "change": "+67.00",
+    "change_percent": "0.77",
+    "last_trade_time": "Mar 20, 5:06PM GMT+2",
+    "name": "Sappi Ltd",
+    "id": 51
+  },
+  {
+    "ticker": "NTC",
+    "exchange": "JSE",
+    "price": "31.00",
+    "change": "+21.00",
+    "change_percent": "0.68",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Netcare Ltd",
+    "id": 52
+  },
+  {
+    "ticker": "MRP",
+    "exchange": "JSE",
+    "price": "177.00",
+    "change": "+243.00",
+    "change_percent": "1.39",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Mr Price Group Ltd",
+    "id": 53
+  },
+  {
+    "ticker": "CCO",
+    "exchange": "JSE",
+    "price": "46.00",
+    "change": "-23.00",
+    "change_percent": "-0.50",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Capital & Counties Properties PLC",
+    "id": 54
+  },
+  {
+    "ticker": "GFI",
+    "exchange": "JSE",
+    "price": "43.70",
+    "change": "-9.00",
+    "change_percent": "-0.21",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Gold Fields Ltd",
+    "id": 55
+  },
+  {
+    "ticker": "BAT",
+    "exchange": "JSE",
+    "price": "77.19",
+    "change": "+63.00",
+    "change_percent": "0.82",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Brait SE",
+    "id": 56
+  },
+  {
+    "ticker": "EXX",
+    "exchange": "JSE",
+    "price": "119.64",
+    "change": "-87.00",
+    "change_percent": "-0.72",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Exxaro Resources Ltd",
+    "id": 57
+  },
+  {
+    "ticker": "IMP",
+    "exchange": "JSE",
+    "price": "43.95",
+    "change": "+41.00",
+    "change_percent": "0.94",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Impala Platinum Holdings Ltd",
+    "id": 58
+  },
+  {
+    "ticker": "TKG",
+    "exchange": "JSE",
+    "price": "73.05",
+    "change": "+5.00",
+    "change_percent": "0.07",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Telkom SA SOC Ltd",
+    "id": 59
+  },
+  {
+    "ticker": "MMI",
+    "exchange": "JSE",
+    "price": "26.27",
+    "change": "+47.00",
+    "change_percent": "1.82",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "MMI Holdings Ltd",
+    "id": 60
+  },
+  {
+    "ticker": "PSG",
+    "exchange": "JSE",
+    "price": "268.62",
+    "change": "+30.00",
+    "change_percent": "0.11",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "PSG Group Ltd",
+    "id": 61
+  },
+  {
+    "ticker": "FFA",
+    "exchange": "JSE",
+    "price": "17.20",
+    "change": "-11.00",
+    "change_percent": "-0.64",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Fortress Income Fund Ltd",
+    "id": 62
+  },
+  {
+    "ticker": "LHC",
+    "exchange": "JSE",
+    "price": "34.18",
+    "change": "+2.00",
+    "change_percent": "0.06",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Life Healthcare Group Holdings Ltd",
+    "id": 63
+  },
+  {
+    "ticker": "IPL",
+    "exchange": "JSE",
+    "price": "187.95",
+    "change": "+482.00",
+    "change_percent": "2.63",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Imperial Holdings Ltd",
+    "id": 64
+  },
+  {
+    "ticker": "SPP",
+    "exchange": "JSE",
+    "price": "184.43",
+    "change": "-218.00",
+    "change_percent": "-1.17",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Spar Group Ltd",
+    "id": 65
+  },
+  {
+    "ticker": "TRU",
+    "exchange": "JSE",
+    "price": "93.77",
+    "change": "+256.00",
+    "change_percent": "2.81",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Truworths International Ltd",
+    "id": 66
+  },
+  {
+    "ticker": "DST",
+    "exchange": "JSE",
+    "price": "140.73",
+    "change": "-27.00",
+    "change_percent": "-0.19",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Distell Group Ltd",
+    "id": 67
+  },
+  {
+    "ticker": "LBH",
+    "exchange": "JSE",
+    "price": "115.01",
+    "change": "-19.00",
+    "change_percent": "-0.16",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Liberty Holdings Ltd",
+    "id": 68
+  },
+  {
+    "ticker": "TFG",
+    "exchange": "JSE",
+    "price": "173.05",
+    "change": "+289.00",
+    "change_percent": "1.70",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Foschini Group Ltd",
+    "id": 69
+  },
+  {
+    "ticker": "PIK",
+    "exchange": "JSE",
+    "price": "72.30",
+    "change": "+65.00",
+    "change_percent": "0.91",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Pick N Pay Stores Ltd",
+    "id": 70
+  },
+  {
+    "ticker": "ROC",
+    "exchange": "JSE",
+    "price": "32.59",
+    "change": "-37.00",
+    "change_percent": "-1.12",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Rockcastle Global Real Estate Co Ltd",
+    "id": 71
+  },
+  {
+    "ticker": "PFG",
+    "exchange": "JSE",
+    "price": "183.59",
+    "change": "-68.00",
+    "change_percent": "-0.37",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Pioneer Food Group Ltd",
+    "id": 72
+  },
+  {
+    "ticker": "AVI",
+    "exchange": "JSE",
+    "price": "102.75",
+    "change": "+127.00",
+    "change_percent": "1.25",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "AVI Ltd",
+    "id": 73
+  },
+  {
+    "ticker": "ASR",
+    "exchange": "JSE",
+    "price": "249.00",
+    "change": "-721.00",
+    "change_percent": "-2.81",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Assore Ltd",
+    "id": 74
+  },
+  {
+    "ticker": "HYP",
+    "exchange": "JSE",
+    "price": "134.44",
+    "change": "+312.00",
+    "change_percent": "2.38",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Hyprop Investments Ltd",
+    "id": 75
+  },
+  {
+    "ticker": "MSM",
+    "exchange": "JSE",
+    "price": "152.61",
+    "change": "+167.00",
+    "change_percent": "1.11",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Massmart Holdings Ltd",
+    "id": 76
+  },
+  {
+    "ticker": "CLS",
+    "exchange": "JSE",
+    "price": "135.80",
+    "change": "+25.00",
+    "change_percent": "0.18",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Clicks Group Ltd",
+    "id": 77
+  },
+  {
+    "ticker": "SGL",
+    "exchange": "JSE",
+    "price": "26.67",
+    "change": "-56.00",
+    "change_percent": "-2.06",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sibanye Gold Ltd",
+    "id": 78
+  },
+  {
+    "ticker": "SNT",
+    "exchange": "JSE",
+    "price": "262.00",
+    "change": "+50.00",
+    "change_percent": "0.19",
+    "last_trade_time": "Mar 20, 5:07PM GMT+2",
+    "name": "Santam Ltd",
+    "id": 79
+  },
+  {
+    "ticker": "TSH",
+    "exchange": "JSE",
+    "price": "28.20",
+    "change": "-52.00",
+    "change_percent": "-1.81",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Tsogo Sun Holdings Ltd",
+    "id": 80
+  },
+  {
+    "ticker": "BAW",
+    "exchange": "JSE",
+    "price": "127.10",
+    "change": "+100.00",
+    "change_percent": "0.79",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Barloworld Ltd",
+    "id": 81
+  },
+  {
+    "ticker": "CML",
+    "exchange": "JSE",
+    "price": "67.60",
+    "change": "+36.00",
+    "change_percent": "0.54",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Coronation Fund Managers Ltd",
+    "id": 82
+  },
+  {
+    "ticker": "ARI",
+    "exchange": "JSE",
+    "price": "98.86",
+    "change": "-605.00",
+    "change_percent": "-5.77",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "African Rainbow Minerals Ltd",
+    "id": 83
+  },
+  {
+    "ticker": "DCP",
+    "exchange": "JSE",
+    "price": "24.60",
+    "change": "+20.00",
+    "change_percent": "0.82",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Dis-Chem Pharmacies Ltd",
+    "id": 84
+  },
+  {
+    "ticker": "COH",
+    "exchange": "JSE",
+    "price": "50.70",
+    "change": "+26.00",
+    "change_percent": "0.52",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Curro Holdings Ltd",
+    "id": 85
+  },
+  {
+    "ticker": "KAP",
+    "exchange": "JSE",
+    "price": "9.30",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "KAP Industrial Holdings Ltd",
+    "id": 86
+  },
+  {
+    "ticker": "IPLP",
+    "exchange": "JSE",
+    "price": "79.05",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Imperial Holdings Ltd",
+    "id": 87
+  },
+  {
+    "ticker": "NHM",
+    "exchange": "JSE",
+    "price": "52.50",
+    "change": "+71.00",
+    "change_percent": "1.37",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Northam Platinum Ltd",
+    "id": 88
+  },
+  {
+    "ticker": "EOH",
+    "exchange": "JSE",
+    "price": "147.00",
+    "change": "+220.00",
+    "change_percent": "1.52",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "EOH Holdings Ltd",
+    "id": 89
+  },
+  {
+    "ticker": "TON",
+    "exchange": "JSE",
+    "price": "132.98",
+    "change": "+32.00",
+    "change_percent": "0.24",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Tongaat Hulett Ltd",
+    "id": 90
+  },
+  {
+    "ticker": "ORL",
+    "exchange": "JSE",
+    "price": "15.50",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Oakbay Resources and Energy Ltd",
+    "id": 91
+  },
+  {
+    "ticker": "HAR",
+    "exchange": "JSE",
+    "price": "29.05",
+    "change": "+16.00",
+    "change_percent": "0.55",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Harmony Gold Mining Co Ltd",
+    "id": 92
+  },
+  {
+    "ticker": "ACL",
+    "exchange": "JSE",
+    "price": "12.09",
+    "change": "+18.00",
+    "change_percent": "1.51",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "ArcelorMittal South Africa Ltd",
+    "id": 93
+  },
+  {
+    "ticker": "FBR",
+    "exchange": "JSE",
+    "price": "158.87",
+    "change": "+29.00",
+    "change_percent": "0.18",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Famous Brands Ltd",
+    "id": 94
+  },
+  {
+    "ticker": "JSE",
+    "exchange": "JSE",
+    "price": "141.96",
+    "change": "+46.00",
+    "change_percent": "0.33",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Jse Ltd",
+    "id": 95
+  },
+  {
+    "ticker": "OCE",
+    "exchange": "JSE",
+    "price": "107.52",
+    "change": "+53.00",
+    "change_percent": "0.50",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Oceana Group Ltd",
+    "id": 96
+  },
+  {
+    "ticker": "GTC",
+    "exchange": "JSE",
+    "price": "28.70",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Globe Trade Centre SA",
+    "id": 97
+  },
+  {
+    "ticker": "ITE",
+    "exchange": "JSE",
+    "price": "13.40",
+    "change": "-15.00",
+    "change_percent": "-1.11",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Italtile Ltd",
+    "id": 98
+  },
+  {
+    "ticker": "VKE",
+    "exchange": "JSE",
+    "price": "19.30",
+    "change": "+5.00",
+    "change_percent": "0.26",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Vukile Property Fund Ltd",
+    "id": 99
+  },
+  {
+    "ticker": "SAC",
+    "exchange": "JSE",
+    "price": "5.78",
+    "change": "-6.00",
+    "change_percent": "-1.03",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "SA Corporate Real Estate Fund",
+    "id": 100
+  },
+  {
+    "ticker": "VUN",
+    "exchange": "JSE",
+    "price": "2.30",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Vunani Ltd",
+    "id": 301
+  },
+  {
+    "ticker": "GAM",
+    "exchange": "JSE",
+    "price": "3.99",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Global Asset Management Ltd",
+    "id": 302
+  },
+  {
+    "ticker": "MZR",
+    "exchange": "JSE",
+    "price": "2.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Mazor Group Ltd",
+    "id": 303
+  },
+  {
+    "ticker": "BUC",
+    "exchange": "JSE",
+    "price": "0.60",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Buffalo Coal Corp",
+    "id": 304
+  },
+  {
+    "ticker": "JSC",
+    "exchange": "JSE",
+    "price": "1.06",
+    "change": "+7.00",
+    "change_percent": "7.07",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Jasco Electronics Holdings Ltd",
+    "id": 305
+  },
+  {
+    "ticker": "KDV",
+    "exchange": "JSE",
+    "price": "1.20",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Kaydav Group Ltd",
+    "id": 306
+  },
+  {
+    "ticker": "BAU",
+    "exchange": "JSE",
+    "price": "0.80",
+    "change": "+2.00",
+    "change_percent": "2.56",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Bauba Platinum Ltd",
+    "id": 307
+  },
+  {
+    "ticker": "DMC",
+    "exchange": "JSE",
+    "price": "0.40",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Diamondcorp PLC",
+    "id": 308
+  },
+  {
+    "ticker": "ISA",
+    "exchange": "JSE",
+    "price": "1.42",
+    "change": "-2.00",
+    "change_percent": "-1.39",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "ISA Holdings Ltd",
+    "id": 309
+  },
+  {
+    "ticker": "CGN",
+    "exchange": "JSE",
+    "price": "1.30",
+    "change": "+4.00",
+    "change_percent": "3.17",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Cognition Holdings Ltd",
+    "id": 310
+  },
+  {
+    "ticker": "CRG",
+    "exchange": "JSE",
+    "price": "9.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Cargo Carriers Ltd",
+    "id": 311
+  },
+  {
+    "ticker": "RNG",
+    "exchange": "JSE",
+    "price": "2.11",
+    "change": "-7.00",
+    "change_percent": "-3.21",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Randgold & Exploration Co Ltd",
+    "id": 312
+  },
+  {
+    "ticker": "SNU",
+    "exchange": "JSE",
+    "price": "0.28",
+    "change": "-1.00",
+    "change_percent": "-3.45",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sentula Mining Ltd",
+    "id": 313
+  },
+  {
+    "ticker": "ELI",
+    "exchange": "JSE",
+    "price": "0.22",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Ellies Holdings Ltd",
+    "id": 314
+  },
+  {
+    "ticker": "ESR",
+    "exchange": "JSE",
+    "price": "0.35",
+    "change": "+2.00",
+    "change_percent": "6.06",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Esor Ltd",
+    "id": 315
+  },
+  {
+    "ticker": "ECS",
+    "exchange": "JSE",
+    "price": "0.13",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Ecsponent Ltd",
+    "id": 316
+  },
+  {
+    "ticker": "LAB",
+    "exchange": "JSE",
+    "price": "0.45",
+    "change": "-1.00",
+    "change_percent": "-2.17",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Labat Africa Ltd",
+    "id": 317
+  },
+  {
+    "ticker": "SVB",
+    "exchange": "JSE",
+    "price": "2.68",
+    "change": "+7.00",
+    "change_percent": "2.68",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "SilverBridge Holdings Ltd",
+    "id": 318
+  },
+  {
+    "ticker": "IDQ",
+    "exchange": "JSE",
+    "price": "9.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Indequity Group Ltd",
+    "id": 319
+  },
+  {
+    "ticker": "WNH",
+    "exchange": "JSE",
+    "price": "0.85",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Winhold Ltd",
+    "id": 320
+  },
+  {
+    "ticker": "PSV",
+    "exchange": "JSE",
+    "price": "0.39",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "PSV Holdings Ltd",
+    "id": 321
+  },
+  {
+    "ticker": "EXG",
+    "exchange": "JSE",
+    "price": "0.25",
+    "change": "+4.00",
+    "change_percent": "19.05",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "eXtract Group Ltd",
+    "id": 322
+  },
+  {
+    "ticker": "GDN",
+    "exchange": "JSE",
+    "price": "0.00",
+    "change": "",
+    "change_percent": "",
+    "last_trade_time": "",
+    "name": "Gooderson Leisure Corp Ltd",
+    "id": 323
+  },
+  {
+    "ticker": "ACE",
+    "exchange": "JSE",
+    "price": "0.65",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Accentuate Ltd",
+    "id": 324
+  },
+  {
+    "ticker": "MFI",
+    "exchange": "JSE",
+    "price": "12.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "M FITEC International Ltd",
+    "id": 325
+  },
+  {
+    "ticker": "CMO",
+    "exchange": "JSE",
+    "price": "0.26",
+    "change": "-3.00",
+    "change_percent": "-10.34",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Chrometco Ltd",
+    "id": 326
+  },
+  {
+    "ticker": "FCR",
+    "exchange": "JSE",
+    "price": "0.05",
+    "change": "+1.00",
+    "change_percent": "25.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Ferrum Crescent Ltd",
+    "id": 327
+  },
+  {
+    "ticker": "GBI",
+    "exchange": "JSE",
+    "price": "0.73",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Gold Brands Investments Ltd",
+    "id": 328
+  },
+  {
+    "ticker": "ILE",
+    "exchange": "JSE",
+    "price": "0.12",
+    "change": "-1.00",
+    "change_percent": "-7.69",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Imbalie Beauty Ltd",
+    "id": 329
+  },
+  {
+    "ticker": "SOH",
+    "exchange": "JSE",
+    "price": "0.46",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "South Ocean Holdings Ltd",
+    "id": 330
+  },
+  {
+    "ticker": "NUT",
+    "exchange": "JSE",
+    "price": "0.02",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Nutritional Holdings Ltd",
+    "id": 331
+  },
+  {
+    "ticker": "GLI",
+    "exchange": "JSE",
+    "price": "0.60",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Go Life International PCC",
+    "id": 332
+  },
+  {
+    "ticker": "DTA",
+    "exchange": "JSE",
+    "price": "1.00",
+    "change": "-10.00",
+    "change_percent": "-9.09",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Delta EMD Ltd",
+    "id": 333
+  },
+  {
+    "ticker": "PMV",
+    "exchange": "JSE",
+    "price": "0.50",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Primeserv Group Ltd",
+    "id": 334
+  },
+  {
+    "ticker": "VMK",
+    "exchange": "JSE",
+    "price": "0.51",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Verimark Holdings Ltd",
+    "id": 335
+  },
+  {
+    "ticker": "HWA",
+    "exchange": "JSE",
+    "price": "0.28",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Hwange Colliery Co Ltd",
+    "id": 336
+  },
+  {
+    "ticker": "CAC",
+    "exchange": "JSE",
+    "price": "1.50",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "CAFCA Ltd",
+    "id": 337
+  },
+  {
+    "ticker": "MED",
+    "exchange": "JSE",
+    "price": "0.11",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Middle East Diamond Resources Ltd",
+    "id": 338
+  },
+  {
+    "ticker": "RDI",
+    "exchange": "JSE",
+    "price": "0.59",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Rockwell Diamonds Inc",
+    "id": 339
+  },
+  {
+    "ticker": "CRD",
+    "exchange": "JSE",
+    "price": "0.15",
+    "change": "-1.00",
+    "change_percent": "-6.25",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Central Rand Gold Ltd",
+    "id": 340
+  },
+  {
+    "ticker": "AHL",
+    "exchange": "JSE",
+    "price": "0.36",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Ah Vest Ltd",
+    "id": 341
+  },
+  {
+    "ticker": "NCS",
+    "exchange": "JSE",
+    "price": "0.45",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Nictus Ltd",
+    "id": 342
+  },
+  {
+    "ticker": "BDM",
+    "exchange": "JSE",
+    "price": "0.17",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Buildmax Ltd",
+    "id": 343
+  },
+  {
+    "ticker": "VIS",
+    "exchange": "JSE",
+    "price": "0.13",
+    "change": "+2.00",
+    "change_percent": "18.18",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Visual International Holdings Ltd",
+    "id": 344
+  },
+  {
+    "ticker": "TLM",
+    "exchange": "JSE",
+    "price": "0.70",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Telemasters Holdings Ltd",
+    "id": 345
+  },
+  {
+    "ticker": "ANA",
+    "exchange": "JSE",
+    "price": "0.53",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Adrenna Property Group Ltd",
+    "id": 346
+  },
+  {
+    "ticker": "MNY",
+    "exchange": "JSE",
+    "price": "0.22",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "MoneyWeb Holdings Ltd",
+    "id": 347
+  },
+  {
+    "ticker": "SPA",
+    "exchange": "JSE",
+    "price": "2.80",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Spanjaard Ltd",
+    "id": 348
+  },
+  {
+    "ticker": "WEA",
+    "exchange": "JSE",
+    "price": "0.05",
+    "change": "-1.00",
+    "change_percent": "-16.67",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "WG Wearne Ltd",
+    "id": 349
+  },
+  {
+    "ticker": "ADW",
+    "exchange": "JSE",
+    "price": "0.70",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "African Dawn Capital Ltd",
+    "id": 350
+  },
+  {
+    "ticker": "STA",
+    "exchange": "JSE",
+    "price": "0.02",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "StratCorp Ltd",
+    "id": 351
+  },
+  {
+    "ticker": "TAW",
+    "exchange": "JSE",
+    "price": "1.84",
+    "change": "+9.00",
+    "change_percent": "5.14",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Tawana Resources NL",
+    "id": 352
+  },
+  {
+    "ticker": "BWN",
+    "exchange": "JSE",
+    "price": "8.08",
+    "change": "+8.00",
+    "change_percent": "1.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Balwin Properties Ltd",
+    "id": 353
+  },
+  {
+    "ticker": "DSBP",
+    "exchange": "JSE",
+    "price": "97.75",
+    "change": "-8.00",
+    "change_percent": "-0.08",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Discovery Ltd",
+    "id": 354
+  },
+  {
+    "ticker": "ECSP6",
+    "exchange": "JSE",
+    "price": "100.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Ecsponent Ltd",
+    "id": 355
+  },
+  {
+    "ticker": "EPP",
+    "exchange": "JSE",
+    "price": "18.06",
+    "change": "+6.00",
+    "change_percent": "0.33",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Echo Polska Properties NV",
+    "id": 356
+  },
+  {
+    "ticker": "FSRP",
+    "exchange": "JSE",
+    "price": "82.40",
+    "change": "-20.00",
+    "change_percent": "-0.24",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Firstrand Ltd",
+    "id": 357
+  },
+  {
+    "ticker": "ILRP2",
+    "exchange": "JSE",
+    "price": "1013.47",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Investec Ltd",
+    "id": 358
+  },
+  {
+    "ticker": "INLP",
+    "exchange": "JSE",
+    "price": "86.05",
+    "change": "-95.00",
+    "change_percent": "-1.09",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Investec Ltd",
+    "id": 359
+  },
+  {
+    "ticker": "INPP",
+    "exchange": "JSE",
+    "price": "89.90",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Investec PLC",
+    "id": 360
+  },
+  {
+    "ticker": "INPPR",
+    "exchange": "JSE",
+    "price": "91.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Investec PLC",
+    "id": 361
+  },
+  {
+    "ticker": "ANH",
+    "exchange": "JSE",
+    "price": "1419.01",
+    "change": "-999.00",
+    "change_percent": "-0.70",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Anheuser-Busch InBev SA/NV",
+    "id": 1
+  },
+  {
+    "ticker": "BTI",
+    "exchange": "JSE",
+    "price": "811.78",
+    "change": "-243.00",
+    "change_percent": "-0.30",
+    "last_trade_time": "Mar 20, 5:08PM GMT+2",
+    "name": "British American Tobacco PLC",
+    "id": 2
+  },
+  {
+    "ticker": "BIL",
+    "exchange": "JSE",
+    "price": "208.27",
+    "change": "-122.00",
+    "change_percent": "-0.58",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "BHP Billiton PLC",
+    "id": 3
+  },
+  {
+    "ticker": "NPN",
+    "exchange": "JSE",
+    "price": "2291.20",
+    "change": "+7,335.00",
+    "change_percent": "3.31",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Naspers Ltd",
+    "id": 4
+  },
+  {
+    "ticker": "GLN",
+    "exchange": "JSE",
+    "price": "54.15",
+    "change": "-32.00",
+    "change_percent": "-0.59",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Glencore PLC",
+    "id": 5
+  },
+  {
+    "ticker": "CFR",
+    "exchange": "JSE",
+    "price": "98.60",
+    "change": "-94.00",
+    "change_percent": "-0.94",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Cie Financiere Richemont SA",
+    "id": 6
+  },
+  {
+    "ticker": "ABSP",
+    "exchange": "JSE",
+    "price": "785.00",
+    "change": "-111.00",
+    "change_percent": "-0.14",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Absa Bank Ltd",
+    "id": 7
+  },
+  {
+    "ticker": "AGL",
+    "exchange": "JSE",
+    "price": "201.02",
+    "change": "-191.00",
+    "change_percent": "-0.94",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Anglo American PLC",
+    "id": 8
+  },
+  {
+    "ticker": "SNH",
+    "exchange": "JSE",
+    "price": "64.80",
+    "change": "-48.00",
+    "change_percent": "-0.74",
+    "last_trade_time": "Mar 20, 5:05PM GMT+2",
+    "name": "Steinhoff International Holdings NV",
+    "id": 9
+  },
+  {
+    "ticker": "FSR",
+    "exchange": "JSE",
+    "price": "53.02",
+    "change": "+1.00",
+    "change_percent": "0.02",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Firstrand Ltd",
+    "id": 10
+  },
+  {
+    "ticker": "SOL",
+    "exchange": "JSE",
+    "price": "363.73",
+    "change": "-479.00",
+    "change_percent": "-1.30",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sasol Ltd",
+    "id": 11
+  },
+  {
+    "ticker": "SBK",
+    "exchange": "JSE",
+    "price": "160.46",
+    "change": "+57.00",
+    "change_percent": "0.36",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Standard Bank Group Ltd",
+    "id": 12
+  },
+  {
+    "ticker": "VOD",
+    "exchange": "JSE",
+    "price": "155.00",
+    "change": "-2.00",
+    "change_percent": "-0.01",
+    "last_trade_time": "Mar 20, 5:09PM GMT+2",
+    "name": "Vodacom Group Ltd",
+    "id": 13
+  },
+  {
+    "ticker": "MTN",
+    "exchange": "JSE",
+    "price": "127.15",
+    "change": "-115.00",
+    "change_percent": "-0.90",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "MTN Group Ltd",
+    "id": 14
+  },
+  {
+    "ticker": "SOLBE1",
+    "exchange": "JSE",
+    "price": "305.05",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sasol Ltd",
+    "id": 15
+  },
+  {
+    "ticker": "REM",
+    "exchange": "JSE",
+    "price": "216.22",
+    "change": "-18.00",
+    "change_percent": "-0.08",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Remgro Ltd",
+    "id": 16
+  },
+  {
+    "ticker": "OML",
+    "exchange": "JSE",
+    "price": "35.25",
+    "change": "+26.00",
+    "change_percent": "0.74",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Old Mutual PLC",
+    "id": 17
+  },
+  {
+    "ticker": "SBPP",
+    "exchange": "JSE",
+    "price": "85.20",
+    "change": "-77.00",
+    "change_percent": "-0.90",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Standard Bank Group Ltd",
+    "id": 18
+  },
+  {
+    "ticker": "S32",
+    "exchange": "JSE",
+    "price": "27.15",
+    "change": "-63.00",
+    "change_percent": "-2.27",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "South32 Ltd",
+    "id": 19
+  },
+  {
+    "ticker": "MND",
+    "exchange": "JSE",
+    "price": "304.25",
+    "change": "+125.00",
+    "change_percent": "0.41",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Mondi Ltd",
+    "id": 20
+  },
+  {
+    "ticker": "APN",
+    "exchange": "JSE",
+    "price": "273.36",
+    "change": "+3.00",
+    "change_percent": "0.01",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Aspen Pharmacare Holdings Ltd",
+    "id": 21
+  },
+  {
+    "ticker": "BGA",
+    "exchange": "JSE",
+    "price": "155.09",
+    "change": "-112.00",
+    "change_percent": "-0.72",
+    "last_trade_time": "Mar 20, 5:06PM GMT+2",
+    "name": "Barclays Africa Group Ltd",
+    "id": 22
+  },
+  {
+    "ticker": "SLM",
+    "exchange": "JSE",
+    "price": "72.42",
+    "change": "+30.00",
+    "change_percent": "0.42",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sanlam Ltd",
+    "id": 23
+  },
+  {
+    "ticker": "NED",
+    "exchange": "JSE",
+    "price": "267.00",
+    "change": "+200.00",
+    "change_percent": "0.75",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Nedbank Group Ltd",
+    "id": 24
+  },
+  {
+    "ticker": "MNP",
+    "exchange": "JSE",
+    "price": "304.20",
+    "change": "+120.00",
+    "change_percent": "0.40",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Mondi PLC",
+    "id": 25
+  },
+  {
+    "ticker": "MEI",
+    "exchange": "JSE",
+    "price": "120.02",
+    "change": "-61.00",
+    "change_percent": "-0.51",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Mediclinic International PLC",
+    "id": 26
+  },
+  {
+    "ticker": "SHP",
+    "exchange": "JSE",
+    "price": "206.56",
+    "change": "+104.00",
+    "change_percent": "0.51",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Shoprite Holdings Ltd",
+    "id": 27
+  },
+  {
+    "ticker": "AMS",
+    "exchange": "JSE",
+    "price": "295.64",
+    "change": "-745.00",
+    "change_percent": "-2.46",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Anglo American Platinum Ltd",
+    "id": 28
+  },
+  {
+    "ticker": "RMH",
+    "exchange": "JSE",
+    "price": "65.95",
+    "change": "+28.00",
+    "change_percent": "0.43",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Rmb Holdings Ltd",
+    "id": 29
+  },
+  {
+    "ticker": "INL",
+    "exchange": "JSE",
+    "price": "95.57",
+    "change": "+2.00",
+    "change_percent": "0.02",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Investec Ltd",
+    "id": 30
+  },
+  {
+    "ticker": "CPI",
+    "exchange": "JSE",
+    "price": "805.00",
+    "change": "+885.00",
+    "change_percent": "1.11",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Capitec Bank Holdings Ltd",
+    "id": 31
+  },
+  {
+    "ticker": "BID",
+    "exchange": "JSE",
+    "price": "270.28",
+    "change": "+176.00",
+    "change_percent": "0.66",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Bid Corp Ltd",
+    "id": 32
+  },
+  {
+    "ticker": "CATP",
+    "exchange": "JSE",
+    "price": "190.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Caxton and CTP Publishers and Printers Ltd",
+    "id": 33
+  },
+  {
+    "ticker": "TBS",
+    "exchange": "JSE",
+    "price": "429.00",
+    "change": "+700.00",
+    "change_percent": "1.66",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Tiger Brands Ltd",
+    "id": 34
+  },
+  {
+    "ticker": "DSY",
+    "exchange": "JSE",
+    "price": "137.42",
+    "change": "+151.00",
+    "change_percent": "1.11",
+    "last_trade_time": "Mar 20, 5:06PM GMT+2",
+    "name": "Discovery Ltd",
+    "id": 35
+  },
+  {
+    "ticker": "HMN",
+    "exchange": "JSE",
+    "price": "91.96",
+    "change": "-7.00",
+    "change_percent": "-0.08",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Hammerson PLC",
+    "id": 36
+  },
+  {
+    "ticker": "ANG",
+    "exchange": "JSE",
+    "price": "138.32",
+    "change": "-63.00",
+    "change_percent": "-0.45",
+    "last_trade_time": "Mar 20, 5:08PM GMT+2",
+    "name": "Anglogold Ashanti Ltd",
+    "id": 37
+  },
+  {
+    "ticker": "FFB",
+    "exchange": "JSE",
+    "price": "34.49",
+    "change": "+3.00",
+    "change_percent": "0.09",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Fortress Income Fund Ltd",
+    "id": 38
+  },
+  {
+    "ticker": "GRT",
+    "exchange": "JSE",
+    "price": "27.56",
+    "change": "+16.00",
+    "change_percent": "0.58",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Growthpoint Properties Ltd",
+    "id": 39
+  },
+  {
+    "ticker": "HLM",
+    "exchange": "JSE",
+    "price": "6.45",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Hulamin Ltd",
+    "id": 201
+  },
+  {
+    "ticker": "COM",
+    "exchange": "JSE",
+    "price": "5.63",
+    "change": "-1.00",
+    "change_percent": "-0.18",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Comair Ltd",
+    "id": 202
+  },
+  {
+    "ticker": "SFN",
+    "exchange": "JSE",
+    "price": "57.00",
+    "change": "-200.00",
+    "change_percent": "-3.39",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sasfin Holdings Ltd",
+    "id": 203
+  },
+  {
+    "ticker": "CGR",
+    "exchange": "JSE",
+    "price": "18.91",
+    "change": "+42.00",
+    "change_percent": "2.27",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Calgro M3 Holdings Ltd",
+    "id": 204
+  },
+  {
+    "ticker": "SYG",
+    "exchange": "JSE",
+    "price": "15.21",
+    "change": "-29.00",
+    "change_percent": "-1.87",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sygnia Ltd",
+    "id": 205
+  },
+  {
+    "ticker": "ADI",
+    "exchange": "JSE",
+    "price": "12.72",
+    "change": "-23.00",
+    "change_percent": "-1.78",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Adapt IT Holdings Ltd",
+    "id": 206
+  },
+  {
+    "ticker": "MFL",
+    "exchange": "JSE",
+    "price": "4.95",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Metrofile Holdings Ltd",
+    "id": 207
+  },
+  {
+    "ticker": "HWN",
+    "exchange": "JSE",
+    "price": "33.00",
+    "change": "-1.00",
+    "change_percent": "-0.03",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Howden Africa Holdings Ltd",
+    "id": 208
+  },
+  {
+    "ticker": "MNK",
+    "exchange": "JSE",
+    "price": "20.00",
+    "change": "+100.00",
+    "change_percent": "5.26",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Montauk Holdings Ltd",
+    "id": 209
+  },
+  {
+    "ticker": "AEE",
+    "exchange": "JSE",
+    "price": "3.89",
+    "change": "+4.00",
+    "change_percent": "1.04",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "African Equity Empowerment Investments Ltd",
+    "id": 210
+  },
+  {
+    "ticker": "FGL",
+    "exchange": "JSE",
+    "price": "2.85",
+    "change": "-3.00",
+    "change_percent": "-1.04",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Finbond Group Ltd",
+    "id": 211
+  },
+  {
+    "ticker": "MDP",
+    "exchange": "JSE",
+    "price": "17.20",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Mara Delta Property Holdings Ltd",
+    "id": 212
+  },
+  {
+    "ticker": "ADR",
+    "exchange": "JSE",
+    "price": "16.50",
+    "change": "-45.00",
+    "change_percent": "-2.65",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Adcorp Holdings Ltd",
+    "id": 213
+  },
+  {
+    "ticker": "GPL",
+    "exchange": "JSE",
+    "price": "3.73",
+    "change": "+5.00",
+    "change_percent": "1.36",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Grand Parade Investments Ltd",
+    "id": 214
+  },
+  {
+    "ticker": "LDO",
+    "exchange": "JSE",
+    "price": "6.80",
+    "change": "",
+    "change_percent": "",
+    "last_trade_time": "Jan 23, 5:00PM GMT+2",
+    "name": "Lodestone REIT Ltd",
+    "id": 216
+  },
+  {
+    "ticker": "PHM",
+    "exchange": "JSE",
+    "price": "20.80",
+    "change": "+65.00",
+    "change_percent": "3.23",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Phumelela Gaming And Leisure Ltd",
+    "id": 217
+  },
+  {
+    "ticker": "SSS",
+    "exchange": "JSE",
+    "price": "11.30",
+    "change": "+5.00",
+    "change_percent": "0.44",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Stor-Age Property REIT Ltd",
+    "id": 218
+  },
+  {
+    "ticker": "GPA",
+    "exchange": "JSE",
+    "price": "9.85",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Gemgrow Properties Ltd",
+    "id": 219
+  },
+  {
+    "ticker": "WIL",
+    "exchange": "JSE",
+    "price": "7.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Wilderness Holdings Ltd",
+    "id": 220
+  },
+  {
+    "ticker": "CMH",
+    "exchange": "JSE",
+    "price": "20.50",
+    "change": "+75.00",
+    "change_percent": "3.80",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Combined Motor Holdings Ltd",
+    "id": 221
+  },
+  {
+    "ticker": "ARH",
+    "exchange": "JSE",
+    "price": "6.69",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "ARB Holdings Ltd",
+    "id": 222
+  },
+  {
+    "ticker": "WEZ",
+    "exchange": "JSE",
+    "price": "0.65",
+    "change": "-1.00",
+    "change_percent": "-1.52",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Wesizwe Platinum Ltd",
+    "id": 223
+  },
+  {
+    "ticker": "BEL",
+    "exchange": "JSE",
+    "price": "14.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Bell Equipment Ltd",
+    "id": 224
+  },
+  {
+    "ticker": "SBV",
+    "exchange": "JSE",
+    "price": "25.50",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sabvest Ltd",
+    "id": 225
+  },
+  {
+    "ticker": "CUL",
+    "exchange": "JSE",
+    "price": "1.32",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Cullinan Holdings Ltd",
+    "id": 226
+  },
+  {
+    "ticker": "SAR",
+    "exchange": "JSE",
+    "price": "7.20",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Safari Investments RSA Ltd",
+    "id": 227
+  },
+  {
+    "ticker": "ARA",
+    "exchange": "JSE",
+    "price": "9.99",
+    "change": "+9.00",
+    "change_percent": "0.91",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Astoria Investments Ltd",
+    "id": 228
+  },
+  {
+    "ticker": "ACG",
+    "exchange": "JSE",
+    "price": "7.10",
+    "change": "+20.00",
+    "change_percent": "2.90",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Anchor Group Ltd",
+    "id": 229
+  },
+  {
+    "ticker": "DCT",
+    "exchange": "JSE",
+    "price": "0.00",
+    "change": "",
+    "change_percent": "",
+    "last_trade_time": "",
+    "name": "Datacentrix Holdings Ltd",
+    "id": 230
+  },
+  {
+    "ticker": "RACP",
+    "exchange": "JSE",
+    "price": "25.00",
+    "change": "-50.00",
+    "change_percent": "-1.96",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "RECM and Calibre Ltd",
+    "id": 231
+  },
+  {
+    "ticker": "UPL",
+    "exchange": "JSE",
+    "price": "16.04",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Universal Partners Ltd",
+    "id": 232
+  },
+  {
+    "ticker": "CTA",
+    "exchange": "JSE",
+    "price": "0.85",
+    "change": "+2.00",
+    "change_percent": "2.41",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Capital Appreciation Ltd",
+    "id": 233
+  },
+  {
+    "ticker": "SCP",
+    "exchange": "JSE",
+    "price": "1.15",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Stellar Capital Partners Ltd",
+    "id": 234
+  },
+  {
+    "ticker": "CZA",
+    "exchange": "JSE",
+    "price": "0.53",
+    "change": "+3.00",
+    "change_percent": "6.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Coal of Africa Ltd",
+    "id": 235
+  },
+  {
+    "ticker": "SVN",
+    "exchange": "JSE",
+    "price": "27.90",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sabvest Ltd",
+    "id": 236
+  },
+  {
+    "ticker": "OAS",
+    "exchange": "JSE",
+    "price": "0.00",
+    "change": "",
+    "change_percent": "",
+    "last_trade_time": "",
+    "name": "Oasis Crescent Property Fund",
+    "id": 237
+  },
+  {
+    "ticker": "MMG",
+    "exchange": "JSE",
+    "price": "10.65",
+    "change": "-10.00",
+    "change_percent": "-0.93",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "MICROmega Holdings Ltd",
+    "id": 238
+  },
+  {
+    "ticker": "YRK",
+    "exchange": "JSE",
+    "price": "3.05",
+    "change": "+19.00",
+    "change_percent": "6.64",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "York Timber Holdings Ltd",
+    "id": 239
+  },
+  {
+    "ticker": "GPB",
+    "exchange": "JSE",
+    "price": "7.20",
+    "change": "+10.00",
+    "change_percent": "1.41",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Gemgrow Properties Ltd",
+    "id": 240
+  },
+  {
+    "ticker": "ING",
+    "exchange": "JSE",
+    "price": "1.00",
+    "change": "+5.00",
+    "change_percent": "5.26",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Ingenuity Property Investments Ltd",
+    "id": 241
+  },
+  {
+    "ticker": "RSG",
+    "exchange": "JSE",
+    "price": "0.90",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Resource Generation Ltd",
+    "id": 242
+  },
+  {
+    "ticker": "TPC",
+    "exchange": "JSE",
+    "price": "29.00",
+    "change": "+10.00",
+    "change_percent": "0.35",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Transpaco Ltd",
+    "id": 243
+  },
+  {
+    "ticker": "CKS",
+    "exchange": "JSE",
+    "price": "65.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Crookes Brothers Ltd",
+    "id": 244
+  },
+  {
+    "ticker": "APK",
+    "exchange": "JSE",
+    "price": "7.20",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Astrapak Ltd",
+    "id": 245
+  },
+  {
+    "ticker": "IHL",
+    "exchange": "JSE",
+    "price": "16.50",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "International Hotel Properties Ltd",
+    "id": 246
+  },
+  {
+    "ticker": "ENX",
+    "exchange": "JSE",
+    "price": "18.50",
+    "change": "+10.00",
+    "change_percent": "0.54",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "enX Group Ltd",
+    "id": 247
+  },
+  {
+    "ticker": "REN",
+    "exchange": "JSE",
+    "price": "11.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Renergen Ltd",
+    "id": 248
+  },
+  {
+    "ticker": "TOR",
+    "exchange": "JSE",
+    "price": "1.60",
+    "change": "-5.00",
+    "change_percent": "-3.03",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Torre Industries Ltd",
+    "id": 249
+  },
+  {
+    "ticker": "RLF",
+    "exchange": "JSE",
+    "price": "5.84",
+    "change": "+4.00",
+    "change_percent": "0.69",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Rolfes Holdings Ltd",
+    "id": 250
+  },
+  {
+    "ticker": "SCL",
+    "exchange": "JSE",
+    "price": "0.23",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "SacOil Holdings Ltd",
+    "id": 251
+  },
+  {
+    "ticker": "CND",
+    "exchange": "JSE",
+    "price": "2.53",
+    "change": "-13.00",
+    "change_percent": "-4.89",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Conduit Capital Ltd",
+    "id": 252
+  },
+  {
+    "ticker": "SIPBEE",
+    "exchange": "JSE",
+    "price": "42.00",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Sasol Inzalo Public Ltd(RF)",
+    "id": 253
+  },
+  {
+    "ticker": "OLG",
+    "exchange": "JSE",
+    "price": "3.25",
+    "change": "-5.00",
+    "change_percent": "-1.52",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "OneLogix Group Ltd",
+    "id": 254
+  },
+  {
+    "ticker": "PET",
+    "exchange": "JSE",
+    "price": "1.42",
+    "change": "-1.00",
+    "change_percent": "-0.70",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Petmin Ltd",
+    "id": 255
+  },
+  {
+    "ticker": "SSK",
+    "exchange": "JSE",
+    "price": "4.60",
+    "change": "+10.00",
+    "change_percent": "2.22",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Stefanutti Stocks Holdings Ltd",
+    "id": 256
+  },
+  {
+    "ticker": "DNB",
+    "exchange": "JSE",
+    "price": "1.77",
+    "change": "+17.00",
+    "change_percent": "10.62",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Deneb Investments Ltd",
+    "id": 257
+  },
+  {
+    "ticker": "QFH",
+    "exchange": "JSE",
+    "price": "3.05",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Quantum Foods Holdings Ltd",
+    "id": 258
+  },
+  {
+    "ticker": "HUG",
+    "exchange": "JSE",
+    "price": "9.25",
+    "change": "-5.00",
+    "change_percent": "-0.54",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Huge Group Ltd",
+    "id": 259
+  },
+  {
+    "ticker": "NVE",
+    "exchange": "JSE",
+    "price": "2.60",
+    "change": "+40.00",
+    "change_percent": "18.18",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "NVest Financial Holdings Ltd",
+    "id": 260
+  },
+  {
+    "ticker": "JBL",
+    "exchange": "JSE",
+    "price": "0.84",
+    "change": "-3.00",
+    "change_percent": "-3.45",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Jubilee Platinum PLC",
+    "id": 261
+  },
+  {
+    "ticker": "TAS",
+    "exchange": "JSE",
+    "price": "1.91",
+    "change": "0.00",
+    "change_percent": "0.00",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Taste Holdings Ltd",
+    "id": 262
+  },
+  {
+    "ticker": "BCF",
+    "exchange": "JSE",
+    "price": "8.00",
+    "change": "+20.00",
+    "change_percent": "2.56",
+    "last_trade_time": "Mar 20, 5:00PM GMT+2",
+    "name": "Bowler Metcalf Ltd",
+    "id": 263
+  }
+]
