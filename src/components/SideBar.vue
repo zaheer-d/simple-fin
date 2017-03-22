@@ -1,6 +1,5 @@
 <template>
     <div>
-        <button @click="clickButton">Get Data </button>
     <div class="side-bar">
         <stock-card v-for="item in stocks" class="u-pull-left" :stockData="item"></stock-card>
     </div>
@@ -27,11 +26,8 @@ export default{
            // console.log('this method was fired by the socket server. eg: io.emit("customEmit", data)')
         }
     },
-    methods: {
-        clickButton: function(val){
-            // $socket is socket.io-client instance
-            this.$socket.emit('ticker', val);
-        }
+    created(){
+        this.$socket.emit('ticker', null);
     }
 }
 </script>
