@@ -10,7 +10,8 @@ export const routes = [
         component : SideBar
     },
     {
-        path : '/detail',
+        path : '/detail/:ticker',
+        name : 'detail',
         component : Main
     }
 ]

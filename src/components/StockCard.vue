@@ -3,16 +3,11 @@
         <div class="card container tooltip" :style="styleClass" @click="ShowMain">
             <div class="row">
                 <div class="twelve columns">
-                    <div class="u-pull-left u-full-width card__ticker">{{ stockData.ticker }}
- <!--<span class="u-pull-right"><i class="fa fa-plus-circle"-->
-                               <!--style="font-size: 1.4rem; color: deeppink; margin-right:8px; margin-top: 8px;  vertical-align: top; "></i></span>-->
-</div>
-
-                </div>
+                    <div class="u-pull-left u-full-width card__ticker">{{ stockData.ticker }}</div>
+               </div>
                 <div class="twelve columns">
                     <div class="u-pull-right card__dailyMove">
                         <i :class="dailyMove" aria-hidden="true"></i>{{ stockData.change_percent }}%
-
                     </div>
                 </div>
                 <div class="twelve columns">
@@ -43,9 +38,6 @@
 
         </div>
     </div>
-
-    </div>
-
 </template>
 <script>
     export default{
@@ -67,8 +59,8 @@
                 return colours[random];
             },
             ShowMain(){
-                console.log('Show details clicked');
-                this.$router.push('/detail');
+                console.log('Show details clicked '+this.stockData.ticker);
+                this.$router.push({ name : 'detail', params : {ticker: this.stockData.ticker}});
             }
         },
         computed: {
