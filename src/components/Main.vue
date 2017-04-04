@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="twelve columns">
-                <h4>Naspers - (NPN)</h4>
+                <h4>{{stock.name}} - ({{stock.ticker}})</h4>
             </div>
         </div>
         <div class="row">
@@ -22,6 +22,27 @@
 
     </div>
 </template>
+
+<script>
+    export default{
+        data(){
+          return {
+              stock : ''
+          }
+        },
+        sockets:{
+            data: function(val){
+                this.stock = JSON.parse(val);
+                console.log('--->'+val);
+            }
+        },
+        mounted(){
+            console.log(this.$route.params.ticker);
+            this.$socket.emit('ticker', this.$route.params.ticker);
+        }
+
+    }
+</script>
 <style scoped>
     .detail__chart{
         height : 40rem;

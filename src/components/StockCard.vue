@@ -4,11 +4,10 @@
             <div class="row">
                 <div class="twelve columns">
                     <div class="u-pull-left u-full-width card__ticker">{{ stockData.ticker }}</div>
-                </div>
+               </div>
                 <div class="twelve columns">
                     <div class="u-pull-right card__dailyMove">
                         <i :class="dailyMove" aria-hidden="true"></i>{{ stockData.change_percent }}%
-
                     </div>
                 </div>
                 <div class="twelve columns">
@@ -39,9 +38,6 @@
 
         </div>
     </div>
-
-    </div>
-
 </template>
 <script>
     export default{
@@ -63,8 +59,8 @@
                 return colours[random];
             },
             ShowMain(){
-                console.log('Show details clicked');
-                this.$router.push('/detail');
+                console.log('Show details clicked '+this.stockData.ticker);
+                this.$router.push({ name : 'detail', params : {ticker: this.stockData.ticker}});
             }
         },
         computed: {
@@ -85,8 +81,9 @@
         border: 1px solid gray;
         width: 8rem;
         height: 7rem;
-        margin: 1rem;
+        margin: 0.5rem;
         cursor: pointer;
+        border-radius: 3px;
     }
 
     .card:hover {
@@ -113,6 +110,7 @@
         position: relative;
         display: inline-block;
         font-size: 1.1rem;
+
     }
 
     .tooltip__movement {
@@ -135,14 +133,14 @@
         border-radius: 6px;
         padding: 5px 0;
         position: absolute;
-        z-index: 1;
+        z-index: 9999;
         bottom: 100%;
         left: 50%;
         margin-left: -125px;
 
         /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
         opacity: 0;
-        transition: opacity 1s;
+        transition: opacity 0.5s;
     }
 
     .tooltip:hover .tooltiptext {

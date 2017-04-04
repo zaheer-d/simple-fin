@@ -1,7 +1,7 @@
 <template>
     <div>
     <div class="side-bar">
-        <stock-card v-for="item in stocks" class="u-pull-left" :stockData="item"></stock-card>
+        <stock-card v-for="item in stocks" class="u-pull-left" :stockData="item" :key="item.id"></stock-card>
     </div>
     </div>
 </template>
