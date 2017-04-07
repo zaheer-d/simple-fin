@@ -1,8 +1,8 @@
 <template>
     <div>
-    <div class="side-bar">
-        <stock-card v-for="item in stocks" class="u-pull-left" :stockData="item" :key="item.id"></stock-card>
-    </div>
+        <el-row>
+        <stock-card v-for="item in stocks" :stockData="item" :key="item.id"></stock-card>
+        </el-row>
     </div>
 </template>
 <script>
@@ -27,12 +27,10 @@ export default{
         }
     },
     created(){
-        this.$socket.emit('ticker', null);
+        this.$socket.emit('ticker', '');
     }
 }
 </script>
 <style scoped>
-    .side-bar{
-      max-height : 20rem;
-    }
+
 </style>

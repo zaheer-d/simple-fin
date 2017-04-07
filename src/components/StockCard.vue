@@ -1,5 +1,6 @@
 <template>
-    <div>
+    <div style="margin-right: 5rem; margin-left: 5rem;">
+        <el-col :span="2" :xs="7" :sm="3" :md="3" :lg="2">
         <div class="card container tooltip" :style="styleClass" @click="ShowMain">
             <div class="row">
                 <div class="twelve columns">
@@ -16,7 +17,7 @@
             </div>
             <div class="tooltiptext container">
                 <div class="row">
-                    <div class="twelve columns u-pull-left u-full-width" style="margin-left:5px;">
+                    <div class="twelve columns u-pull-left u-full-width" style="margin-left:5px;text-overflow:ellipsis; width: 130px; white-space: nowrap;overflow: hidden;">
                         <b>{{stockData.name}}</b> <br>
                     </div>
                 </div>
@@ -37,6 +38,7 @@
             </div>
 
         </div>
+        </el-col>
     </div>
 </template>
 <script>
@@ -81,7 +83,7 @@
         border: 1px solid gray;
         width: 8rem;
         height: 7rem;
-        margin: 0.5rem;
+        margin: 0.5rem 0 0.5rem 0.5rem;
         cursor: pointer;
         border-radius: 3px;
     }
@@ -117,17 +119,18 @@
         font-size: 1.6rem;
         text-align: center;
         margin-top: -4.5rem;
-        margin-right: -3rem;
+        margin-right: 1rem;
     }
 
     .tooltip__subdetailtext {
-        font-size: 1.2rem;
+        font-size: 1rem;
+        font-weight: 500;
         margin-top: 5px;
     }
 
     .tooltip .tooltiptext {
         visibility: hidden;
-        width: 250px;
+        width: 150px;
         background-color: black;
         color: #fff;
         border-radius: 6px;
@@ -136,7 +139,7 @@
         z-index: 9999;
         bottom: 100%;
         left: 50%;
-        margin-left: -125px;
+        margin-left: -75px;
 
         /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
         opacity: 0;

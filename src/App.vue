@@ -1,40 +1,41 @@
 <template>
 
-  <div id="app" >
+  <div id="app">
+
     <div class="navbar-fixed-top">
-      <div class="navbar__toolbar" style="position: relative">
-        <div style="font-size: 3rem; margin-left:5rem;" class="u-pull-left">Simply Fin</div>
-        <div class="u-full-width" style="background-color: white; height: 6px; position: absolute; bottom: 0;">
-          <div style="background-color: cyan;" class="navbar__bottomcolour"></div>
-          <div style="background-color: orangered; " class="navbar__bottomcolour"></div>
-          <div style="background-color: orchid;" class="navbar__bottomcolour"></div>
-          <div style="background-color: orange;" class="navbar__bottomcolour"></div>
-          <div style="background-color: greenyellow;" class="navbar__bottomcolour"></div>
-          <div style="background-color: springgreen;" class="navbar__bottomcolour"></div>
-          <div style="background-color: cyan; " class="navbar__bottomcolour"></div>
-          <div style="background-color: orangered; " class="navbar__bottomcolour"></div>
-          <div style="background-color: orchid;" class="navbar__bottomcolour"></div>
-          <div style="background-color: orange;" class="navbar__bottomcolour"></div>
-          <div style="background-color: greenyellow;" class="navbar__bottomcolour"></div>
-          <div style="background-color: springgreen;" class="navbar__bottomcolour"></div>
-          <div style="background-color: orchid;" class="navbar__bottomcolour"></div>
-          <div style="background-color: cyan;" class="navbar__bottomcolour"></div>
-        </div>
-      </div>
-      </div>
+    <div class="navbar__toolbar" style="position: relative">
+      <el-menu  class="el-menu-demo" mode="horizontal" theme="dark">
+        <div class="header__home-title u-pull-left">Portfolio Tracker</div>
+        <el-submenu index="2">
+          <template slot="title">Manage</template>
+          <el-menu-item index="2-1">My Portfolio</el-menu-item>
+          <el-menu-item index="2-2">Tickers</el-menu-item>
+          <el-menu-item index="2-3">Reports</el-menu-item>
+        </el-submenu>
+        <el-menu-item index="3">Import</el-menu-item>
+      </el-menu>
+    <div class="u-full-width" style="background-color: white; height: 6px; position: absolute; bottom: 0;">
+    <div style="background-color: cyan;" class="navbar__bottomcolour"></div>
+    <div style="background-color: orangered; " class="navbar__bottomcolour"></div>
+    <div style="background-color: orchid;" class="navbar__bottomcolour"></div>
+    <div style="background-color: orange;" class="navbar__bottomcolour"></div>
+    <div style="background-color: greenyellow;" class="navbar__bottomcolour"></div>
+    <div style="background-color: springgreen;" class="navbar__bottomcolour"></div>
+    <div style="background-color: cyan; " class="navbar__bottomcolour"></div>
+    <div style="background-color: orangered; " class="navbar__bottomcolour"></div>
+    <div style="background-color: orchid;" class="navbar__bottomcolour"></div>
+    <div style="background-color: orange;" class="navbar__bottomcolour"></div>
+    <div style="background-color: greenyellow;" class="navbar__bottomcolour"></div>
+    <div style="background-color: springgreen;" class="navbar__bottomcolour"></div>
+    <div style="background-color: orchid;" class="navbar__bottomcolour"></div>
+    <div style="background-color: cyan;" class="navbar__bottomcolour"></div>
+    </div>
+    </div>
+    </div>
 
-    <!--<div class="sidemenu u-pull-left">-->
-      <!--hfkjhfjkkfjhfjf-->
-    <!--</div>-->
-
-    <div class="main__cards">
-    <div class="routerview__movedown">
-      <div>
-        <router-view>
+        <router-view class="main__cards routerview__movedown">
         </router-view>
-      </div>
-    </div>
-    </div>
+
   </div>
 
 </template>
@@ -45,8 +46,8 @@ import SideBar from './components/SideBar.vue'
 export default {
   name: 'app',
   components : {
-  'app-main' : Main,
-  'app-sidebar' : SideBar
+      'app-main' : Main,
+      'app-sidebar' : SideBar
   },
   data () {
     return {
@@ -64,15 +65,9 @@ export default {
   color: #2c3e50;
  }
 
-.sidemenu{
-  position : fixed;
-  left:0;
-  width:20rem;
-  height: 100%;
-  background-color: #262626;
-}
 .routerview__movedown{
   padding-top: 8rem;
+
 }
 .navbar-fixed-top {
   position: fixed;
@@ -82,13 +77,11 @@ export default {
   background-color: white;
   height:50px;
 }
+
 .navbar__bottomcolour{
   width: 7.1%;
   height:2px;
   float: left;
-}
-.app__buttons{
-  margin-right : 5rem;
 }
 
 .navbar__toolbar {
@@ -98,7 +91,16 @@ export default {
 }
 
 .main__cards {
-  margin: auto;
-  width: 80%;
+  width: 100%;
+}
+
+.header__home-title {
+  font-size: 2rem;
+  color: white;
+  margin-top: 1.2rem;
+  margin-left: 2rem;
+}
+.header__home-title :hover {
+  border : none;
 }
 </style>
