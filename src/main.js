@@ -8,6 +8,7 @@ import 'element-ui/lib/theme-default/index.css'
 import 'normalize-css'
 import 'skeleton-css/css/skeleton.css'
 import {routes} from './routes'
+import VueChartJS from 'vue-chartjs'
 
 var router = new VueRouter({
   routes
@@ -16,6 +17,7 @@ var router = new VueRouter({
 Vue.use(ElementUI);
 Vue.use(VueRouter);
 Vue.use(VueSocket, 'http://45.58.47.239:9000');
+Vue.use(VueChartJS);
 
 new Vue({
     el: '#app',

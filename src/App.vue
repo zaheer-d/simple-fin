@@ -5,7 +5,7 @@
     <div class="navbar-fixed-top">
     <div class="navbar__toolbar" style="position: relative">
       <el-menu  class="el-menu-demo" mode="horizontal" theme="dark">
-        <div class="header__home-title u-pull-left">Portfolio Tracker</div>
+        <div class="header__home-title u-pull-left"><router-link to="/">Portfolio Tracker</router-link></div>
         <el-submenu index="2">
           <template slot="title">Manage</template>
           <el-menu-item index="2-1">My Portfolio</el-menu-item>
@@ -99,8 +99,20 @@ export default {
   color: white;
   margin-top: 1.2rem;
   margin-left: 2rem;
+
 }
-.header__home-title :hover {
+.header__home-title a{
+  color: white;
   border : none;
+  font-style: normal;
+  text-decoration: none;
+  outline: none;
 }
+.header__home-title a:hover {
+  border : none;
+  font-weight: 400;
+  text-decoration: none;
+  color: #ffe769;
+}
+
 </style>
