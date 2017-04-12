@@ -56,10 +56,10 @@
             <el-col :span="20" :offset="2">
                 <el-card class="box-card">
                     <div slot="header" class="clearfix">
-                        <span style="line-height: 36px;">10 Day Price Chart</span>
+                        <span style="line-height: 36px;">Month to Date</span>
                     </div>
                     <div style="width: 100%;">
-                        <stock-chart :chartData="chartData" :height="300" style="padding: 2rem;"></stock-chart>
+                        <stock-chart :chartData="chartData" :options="options"  style="max-height:30rem; padding: 2rem;"></stock-chart>
                     </div>
                 </el-card>
 
@@ -78,6 +78,7 @@
             return {
                 stock: '',
                 chartData : {},
+                options : {}
             }
         },
         methods: {
@@ -96,6 +97,31 @@
                         return moment(d.pricing_date).format('DD-MMM');
                     });
                     console.log(serverlabels);
+                    vm.options =
+                        {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            title: {
+                                display: false
+                            },
+                            legend : {
+                                display : false
+                            },
+                            scales: {
+                                yAxes: [{
+                                    display : true,
+                                    ticks: {
+                                        maxTicksLimit : 5
+                                    }
+                                }]
+
+                            },
+                            gridLines : {
+                                display:true
+                            }
+
+
+                        }
 
                     vm.chartData = {
                          labels : serverlabels,
@@ -109,6 +135,7 @@
                                  data: serverData,
                                  spanGaps: false,
                              }
+
                          ]
                     };
 

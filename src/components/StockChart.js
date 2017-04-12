@@ -6,21 +6,30 @@ const options =
     responsive: false,
         maintainAspectRatio: false,
     title: {
-    display: false
-},
+        display: false
+    },
     legend : {
         display : false
+    },
+    scales: {
+        yAxes: [{
+               display : true,
+                ticks: {
+                    maxTicksLimit : 3
+                }
+        }],
     }
 
 }
+
 import { Line, mixins } from 'vue-chartjs'
 const { reactiveProp } = mixins
 
 export default Line.extend({
     mixins: [reactiveProp],
-    props: ['chartData'],
+    props: ['chartData', 'options'],
     mounted () {
         // this.chartData is created in the mixin
-        this.renderChart(this.chartData, options)
+        this.renderChart(this.chartData, this.options)
     }
 })
