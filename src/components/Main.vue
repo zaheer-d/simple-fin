@@ -3,37 +3,69 @@
         <el-row>
             <el-col :span="1" :offset="2">
                 <div>
-                    <i :class="dailyMove" aria-hidden="true" style="font-size: 4rem;"></i>
+                 <i :class="dailyMove" aria-hidden="true" style="font-size: 4rem;"></i>
                 </div>
             </el-col>
-            <el-col :span="18">
-                <h4>{{stock.name}} - ({{stock.ticker}})</h4>
+            <el-col :span="10">
+                <!--<el-badge :value="100" class="item">-->
+                <h4 style="margin-left: 1rem;">{{stock.name}} - ({{stock.ticker}})</h4>
+                <!--</el-badge>-->
             </el-col>
-
+            <el-col :span="9">
+                <el-button-group class="u-pull-right">
+                    <el-button type="primary" icon="edit"></el-button>
+                    <el-button type="primary" icon="share"></el-button>
+                    <el-button type="primary" icon="delete"></el-button>
+                </el-button-group>
+            </el-col>
         </el-row>
-
         <el-row>
             <el-col :span="11" :offset="2">
                 <el-card class="box-card">
-                    <div slot="header" class="clearfix">
-                        <span style="line-height: 36px;">Information</span>
-                    </div>
-                    <div style="height: 150px; width: 100%; overflow:hidden; overflow-y:scroll;">
-                        <table style="width:100%;">
-                            <tr>
-                                <td><strong>Price</strong></td>
-                                <td>{{stock.price}}</td>
-                            </tr>
-                            <tr>
-                                <td><strong>Price Change</strong></td>
-                                <td>{{stock.change}} ({{stock.change_percent}}%)</td>
-                            </tr>
-                            <tr>
-                                <td><strong>Yield</strong></td>
-                                <td>{{stock.yield}}</td>
-                            </tr>
-                        </table>
-                    </div>
+                    <!--<div slot="header" class="clearfix">-->
+                        <!--<span style="line-height: 36px;">Information</span>-->
+                    <!--</div>-->
+                    <el-tabs v-model="activeTab">
+                        <el-tab-pane label="Basic" name="first">
+                            <div style="height: 180px; width: 100%; overflow:hidden; overflow-y:scroll;">
+                                <table style="width:100%;">
+                                    <tr>
+                                        <td><strong>Price</strong></td>
+                                        <td>{{stock.price}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Price Change</strong></td>
+                                        <td>{{stock.change}} ({{stock.change_percent}}%)</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Yield</strong></td>
+                                        <td>{{stock.yield}}</td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </el-tab-pane>
+                        <el-tab-pane label="More" name="second">
+                            <div style="height: 180px; width: 100%; overflow:hidden; overflow-y:scroll;">
+                                <table style="width:100%;">
+                                    <tr>
+                                        <td><strong>PE Ratio</strong></td>
+                                        <td>{{stock.pe}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Dividends</strong></td>
+                                        <td>{{stock.divyield}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Volume</strong></td>
+                                        <td>{{stock.volume}}</td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </el-tab-pane>
+                        <el-tab-pane label="Settings" name="third">Role</el-tab-pane>
+                        <el-tab-pane label="Notes" name="fourth">Task</el-tab-pane>
+                    </el-tabs>
+
                 </el-card>
             </el-col>
             <el-col :span="8" :offset="1">
@@ -41,7 +73,7 @@
                     <div slot="header" class="clearfix">
                         <span style="line-height: 36px;">News Feed</span>
                     </div>
-                    <div style="height: 150px; overflow:hidden; overflow-y:scroll;">
+                    <div style="height: 165px; overflow:hidden; overflow-y:scroll;">
                         <div v-for="o in 20">
                             {{'List item ' + o }}
 
@@ -78,7 +110,8 @@
             return {
                 stock: '',
                 chartData : {},
-                options : {}
+                options : {},
+                activeTab: 'first'
             }
         },
         methods: {
@@ -93,10 +126,16 @@
                     });
                     console.log(serverData);
                     // get body data
-                    var serverlabels = response.body.data.map(function (d) {
+
+                    var sortedList = response.body.data.sort(function(a,b) {
+                        return  new Date(a.pricing_date) - new Date(b.pricing_date);
+                    })
+                    var serverlabels = sortedList.map(function (d) {
                         return moment(d.pricing_date).format('DD-MMM');
                     });
-                    console.log(serverlabels);
+
+                    console.log(sortedList);
+
                     vm.options =
                         {
                             responsive: true,
@@ -111,7 +150,7 @@
                                 yAxes: [{
                                     display : true,
                                     ticks: {
-                                        maxTicksLimit : 5
+                                        maxTicksLimit : 10
                                     }
                                 }]
 
@@ -127,7 +166,7 @@
                          labels : serverlabels,
                          datasets: [
                              {
-                                 label: 'Price Movement',
+                                 label: 'Price',
                                  fill: true,
                                  lineTension: 0,
                                  backgroundColor: '#ffe769',
@@ -159,7 +198,7 @@
             },
             data: function (val) {
                 this.stock = JSON.parse(val)[0];
-                //console.log('--->'+val);
+                console.log(val);
             }
         },
         created(){
@@ -179,10 +218,11 @@
     }
 </script>
 <style scoped>
-    .detail__chart {
-        width: 100%;
-        border: 0px solid gray;
+    .item {
+        /*margin-top: 10px;*/
+        /*margin-right: 50px;*/
     }
+
 
     .fa-arrow-circle-up {
         color: #1acc41;
