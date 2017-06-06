@@ -48,11 +48,6 @@ export default {
   components : {
       'app-main' : Main,
       'app-sidebar' : SideBar
-  },
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
   }
 }
 </script>
@@ -63,6 +58,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
+  background-color: #fbf9f9;
  }
 
 .routerview__movedown{

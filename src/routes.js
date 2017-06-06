@@ -7,7 +7,8 @@ import SideBar from './components/SideBar.vue'
 export const routes = [
     {
         path : '/',
-        component : SideBar
+        component : SideBar,
+        keepAlive : true
     },
     {
         path : '/detail/:ticker',

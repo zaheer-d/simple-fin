@@ -23,7 +23,7 @@ const options =
 }
 
 import { Line, mixins } from 'vue-chartjs'
-const { reactiveProp } = mixins
+const { reactiveProp } = mixins;
 
 export default Line.extend({
     mixins: [reactiveProp],

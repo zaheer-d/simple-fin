@@ -22,9 +22,6 @@
         <el-row>
             <el-col :span="11" :offset="2">
                 <el-card class="box-card">
-                    <!--<div slot="header" class="clearfix">-->
-                        <!--<span style="line-height: 36px;">Information</span>-->
-                    <!--</div>-->
                     <el-tabs v-model="activeTab">
                         <el-tab-pane label="Basic" name="first">
                             <div style="height: 180px; width: 100%; overflow:hidden; overflow-y:scroll;">
@@ -74,9 +71,22 @@
                         <span style="line-height: 36px;">News Feed</span>
                     </div>
                     <div style="height: 165px; overflow:hidden; overflow-y:scroll;">
-                        <div v-for="o in 20">
-                            {{'List item ' + o }}
-
+                        <div v-if="sensData.length > 0">
+                        <div v-for="sens in sensData" :key="sens.id" style="height: 60px;">
+                            <div class="u-pull-left" style="color:gray; width: 50px; height: 100%;
+                            font-size: 1.3rem;">
+                                {{getSensDate(sens.created_at)}}<br>
+                                {{getSensTime(sens.created_at)}}
+                            </div>
+                            <div class="u-pull-left" style="width: 3px; background-color: seagreen; height: 45px;margin-right: 0.5rem;"></div>
+                                <div class="u-fullwidth">
+                                    <a :href="sens.entities.urls[0].url" target="_blank"
+                                       style="text-decoration: none; color: dimgray;">{{sens.text | removeUrl}}</a>
+                                </div>
+                        </div>
+                        </div>
+                        <div v-else>
+                            Nothing available right now :)
                         </div>
                     </div>
                 </el-card>
@@ -100,7 +110,6 @@
 
     </div>
 </template>
-
 <script>
     import StockChart from './StockChart';
     import moment from 'moment';
@@ -111,6 +120,7 @@
                 stock: '',
                 chartData : {},
                 options : {},
+                sensData : {},
                 activeTab: 'first'
             }
         },
@@ -118,18 +128,22 @@
             getData(ticker){
                 var vm = this;
 
-                var url = 'http://45.58.47.239:5000/api/shareprice/code/' + ticker;
+                var url = 'https://share-feed.herokuapp.com/msn/' + ticker;
+//                var url = 'http://45.58.47.239:5000/shareprice/code/' + ticker;
 
                 this.$http.get(url).then(response => {
-                    var serverData = response.body.data.map(function (d) {
-                        return d.share_price;
-                    });
-                    console.log(serverData);
+                    console.log(response);
+                    vm.stock = response.body;
+                    //var serverData = response.body.map(function (d) {
+                      //  return d.share_price;
+                    //});
+
+                    //console.log(serverData);
                     // get body data
 
-                    var sortedList = response.body.data.sort(function(a,b) {
+                    var sortedList = response.body.sort(function(a,b) {
                         return  new Date(a.pricing_date) - new Date(b.pricing_date);
-                    })
+                    });
                     var serverlabels = sortedList.map(function (d) {
                         return moment(d.pricing_date).format('DD-MMM');
                     });
@@ -160,7 +174,7 @@
                             }
 
 
-                        }
+                        };
 
                     vm.chartData = {
                          labels : serverlabels,
@@ -181,7 +195,22 @@
                 }, response => {
                     // error callback
                 });
-            }
+            },
+            getSensTweets(ticker){
+                let vm = this;
+                //this.$http.get('http://45.58.47.239:8008/api/tweets/'+ticker).then(data => {
+                this.$http.get('https://share-twitter.herokuapp.com/api/tweets/'+ticker).then(data => {
+                    vm.sensData = data.body;
+                }, error => {
+
+                });
+            },
+            getSensDate(val){
+                return moment(val).format('DD-MMM');
+            },
+            getSensTime(val){
+                return moment(val).format('HH:mm');
+            },
         },
         components: {
             'stock-chart': StockChart
@@ -190,7 +219,14 @@
             dailyMove(){
                 return (this.stock.change_percent >= 0) ? 'fa fa-arrow-circle-up' : 'fa fa-arrow-circle-down';
             }
-
+        },
+        filters :{
+            removeUrl(val){
+                val = val.replace(/(?:https?|ftp):\/\/[\n\S]+/g, '');
+                let txt = document.createElement("textarea");
+                txt.innerHTML = val;
+                return txt.value;
+            }
         },
         sockets: {
             connect(){
@@ -202,18 +238,18 @@
             }
         },
         created(){
+
             //console.log("created");
             //this.chartStock = this.$route.params.ticker;
-            this.$socket.emit('ticker', this.$route.params.ticker);
+           // this.$socket.emit('ticker', this.$route.params.ticker);
             //this.getChartData();
         },
-        mounted(){
+       mounted(){
             this.getData(this.$route.params.ticker);
-        },
-        beforeRouteLeave(to, from, next){
-            delete this.$options.sockets.ticker;
-            next();
-        }
+//            this.getData(this.$route.params.ticker);
+            this.getSensTweets(this.$route.params.ticker);
+      }
+
 
     }
 </script>
